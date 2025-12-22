@@ -3,14 +3,18 @@ name = "wheel"
 version = "0.1.0"
 edition = "2024"
 
+[profile.dev]
+opt-level = 1
+
 [profile.dev.package."*"]
 opt-level = 3
 
 [profile.release]
 codegen-units = 1
 lto = "fat"
-strip = "symbols"
+strip = "debuginfo"
 
 [dependencies]
 bevy = "0.17.3"
+log = { version = "*", features = ["max_level_debug", "release_max_level_warn"]}
 rand = "0.9.2"
