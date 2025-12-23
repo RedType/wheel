@@ -1,4 +1,5 @@
 use bevy::{
+  input::keyboard::KeyboardInput,
   platform::collections::HashSet,
   prelude::*,
 };
@@ -16,9 +17,117 @@ impl Plugin for VincubusPlugin {
         update_l_arm,
         update_r_arm,
         update_tail,
+        testing_input,
       ));
   }
 }
+
+fn testing_input(
+  mut ev_keyboard: MessageReader<KeyboardInput>,
+  mut q: Query<(
+    &mut EyeState,
+    &mut HeadState,
+    &mut LArmState,
+    &mut RArmState,
+    &mut TailState,
+  )>,
+) {
+  for ev in ev_keyboard.read() {
+    if ev.state.is_pressed() {
+      continue;
+    }
+
+    for (mut e, mut h, mut l, mut r, mut t) in &mut q {
+      match ev.key_code {
+        KeyCode::KeyQ => {
+          *e = match *e {
+            EyeState::Hidden => EyeState::Facing,
+            EyeState::Facing => EyeState::Looking,
+            EyeState::Looking => EyeState::Hidden,
+          };
+        },
+        KeyCode::KeyW => {
+          *h = match *h {
+            HeadState::Neutral => HeadState::Talk,
+            HeadState::Talk => HeadState::Sad,
+            HeadState::Sad => HeadState::Surprise,
+            HeadState::Surprise => HeadState::Neutral,
+          };
+        },
+        KeyCode::KeyE => {
+          *l = match *l {
+            LArmState::Hip => LArmState::Shrug,
+            LArmState::Shrug => LArmState::Hip,
+          };
+        },
+        KeyCode::KeyR => {
+          *r = match *r {
+            RArmState::Shrug => RArmState::Hangin,
+            RArmState::Hangin => RArmState::Shrug,
+          };
+        },
+        KeyCode::KeyT => {
+          *t = match *t {
+            TailState::Flip => TailState::Flop,
+            TailState::Flop => TailState::Flip,
+          };
+        },
+        _ => (),
+      }
+    }
+  }
+}
+
+///////////////////
+// Asset Loading //
+///////////////////
+
+mod sprite_filenames {
+  type S = &'static str;
+
+  pub const TAIL_1:        S = "vincubus/sprites/Tail_1.png";
+  pub const TAIL_2:        S = "vincubus/sprites/Tail_2.png";
+  pub const R_ARM_HANGIN:  S = "vincubus/sprites/R_Hangin.png";
+  pub const R_ARM_SHRUG:   S = "vincubus/sprites/R_Shrug.png";
+  pub const BODY:          S = "vincubus/sprites/Body.png";
+  pub const L_ARM_HIP:     S = "vincubus/sprites/L_On_Hip.png";
+  pub const L_ARM_SHRUG:   S = "vincubus/sprites/L_Shrug.png";
+  pub const HEAD_NEUTRAL:  S = "vincubus/sprites/Head_Neutral.png";
+  pub const HEAD_SAD:      S = "vincubus/sprites/Head_Sad.png";
+  pub const HEAD_SURPRISE: S = "vincubus/sprites/Head_Surprise.png";
+  pub const HEAD_TALK:     S = "vincubus/sprites/Head_Talk.png";
+  pub const EYE_FACING:    S = "vincubus/sprites/Eye_Facing.png";
+  pub const EYE_LOOKING:   S = "vincubus/sprites/Eye_Looking.png";
+}
+
+#[derive(Resource)]
+struct LoadState {
+  finished_loading: bool,
+  sprites: HashSet<Handle<Image>>,
+}
+
+fn update_load_state(
+  mut load_state: ResMut<LoadState>,
+  asset_server: Res<AssetServer>,
+) {
+  if load_state.finished_loading {
+    return;
+  }
+
+  load_state.sprites.retain(|sprite| {
+    asset_server
+      .get_recursive_dependency_load_state(sprite)
+      .is_none_or(|state| !state.is_loaded())
+  });
+
+  if load_state.sprites.len() == 0 {
+    load_state.finished_loading = true;
+  }
+}
+
+///////////////
+// Component //
+///////////////
 
 #[derive(Component)]
 pub struct Vincubus {
@@ -217,74 +326,36 @@ struct SpawnVincubusCommand;
 
 impl Command for SpawnVincubusCommand {
   fn apply(self, world: &mut World) {
-    // Eyes
-    let eye_facing = world.spawn((
+    // Tails
+    let tail_flip = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::EYE_FACING),
+        image: world.load_asset(sprite_filenames::TAIL_1),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 5.),
-      Visibility::Visible,
+      Transform::from_xyz(0., 0., 0.1),
     )).id();
-    let eye_looking = world.spawn((
+    let tail_flop = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::EYE_LOOKING),
+        image: world.load_asset(sprite_filenames::TAIL_2),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 5.),
-      Visibility::Hidden,
+      Transform::from_xyz(0., 0., 0.2),
     )).id();
 
-    // Heads
-    let head_neutral = world.spawn((
+    // R Arms
+    let r_arm_hangin = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::HEAD_NEUTRAL),
+        image: world.load_asset(sprite_filenames::R_ARM_HANGIN),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 4.),
-      Visibility::Visible,
+      Transform::from_xyz(0., 0., 1.1),
     )).id();
-    let head_sad = world.spawn((
+    let r_arm_shrug = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::HEAD_SAD),
+        image: world.load_asset(sprite_filenames::R_ARM_SHRUG),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 4.),
-      Visibility::Hidden,
-    )).id();
-    let head_surprise = world.spawn((
-      Sprite {
-        image: world.load_asset(sprite_filenames::HEAD_SURPRISE),
-        ..Default::default()
-      },
-      Transform::from_xyz(0., 0., 4.),
-      Visibility::Hidden,
-    )).id();
-    let head_talk = world.spawn((
-      Sprite {
-        image: world.load_asset(sprite_filenames::HEAD_TALK),
-        ..Default::default()
-      },
-      Transform::from_xyz(0., 0., 4.),
-      Visibility::Hidden,
-    )).id();
-
-    // L Arms
-    let l_arm_hip = world.spawn((
-      Sprite {
-        image: world.load_asset(sprite_filenames::L_ARM_HIP),
-        ..Default::default()
-      },
-      Transform::from_xyz(0., 0., 3.),
-      Visibility::Visible,
-    )).id();
-    let l_arm_shrug = world.spawn((
-      Sprite {
-        image: world.load_asset(sprite_filenames::L_ARM_SHRUG),
-        ..Default::default()
-      },
-      Transform::from_xyz(0., 0., 3.),
-      Visibility::Hidden,
+      Transform::from_xyz(0., 0., 1.2),
     )).id();
 
     // Body
@@ -294,47 +365,72 @@ impl Command for SpawnVincubusCommand {
         ..Default::default()
       },
       Transform::from_xyz(0., 0., 2.),
-      Visibility::Visible,
     )).id();
 
-    // R Arms
-    let r_arm_hangin = world.spawn((
+    // L Arms
+    let l_arm_hip = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::R_ARM_HANGIN),
+        image: world.load_asset(sprite_filenames::L_ARM_HIP),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 1.),
-      Visibility::Visible,
+      Transform::from_xyz(0., 0., 3.1),
     )).id();
-    let r_arm_shrug = world.spawn((
+    let l_arm_shrug = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::R_ARM_SHRUG),
+        image: world.load_asset(sprite_filenames::L_ARM_SHRUG),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 1.),
-      Visibility::Hidden,
+      Transform::from_xyz(0., 0., 3.2),
     )).id();
 
-    // Tails
-    let tail_flip = world.spawn((
+    // Heads
+    let head_neutral = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::TAIL_1),
+        image: world.load_asset(sprite_filenames::HEAD_NEUTRAL),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 0.),
-      Visibility::Visible,
+      Transform::from_xyz(0., 0., 4.1),
     )).id();
-    let tail_flop = world.spawn((
+    let head_sad = world.spawn((
       Sprite {
-        image: world.load_asset(sprite_filenames::TAIL_2),
+        image: world.load_asset(sprite_filenames::HEAD_SAD),
         ..Default::default()
       },
-      Transform::from_xyz(0., 0., 0.),
-      Visibility::Hidden,
+      Transform::from_xyz(0., 0., 4.2),
+    )).id();
+    let head_surprise = world.spawn((
+      Sprite {
+        image: world.load_asset(sprite_filenames::HEAD_SURPRISE),
+        ..Default::default()
+      },
+      Transform::from_xyz(0., 0., 4.3),
+    )).id();
+    let head_talk = world.spawn((
+      Sprite {
+        image: world.load_asset(sprite_filenames::HEAD_TALK),
+        ..Default::default()
+      },
+      Transform::from_xyz(0., 0., 4.4),
+    )).id();
+
+    // Eyes
+    let eye_facing = world.spawn((
+      Sprite {
+        image: world.load_asset(sprite_filenames::EYE_FACING),
+        ..Default::default()
+      },
+      Transform::from_xyz(0., 0., 5.1),
+    )).id();
+    let eye_looking = world.spawn((
+      Sprite {
+        image: world.load_asset(sprite_filenames::EYE_LOOKING),
+        ..Default::default()
+      },
+      Transform::from_xyz(0., 0., 5.2),
     )).id();
 
     // Root Entity
-    let mut vincubus = world.spawn((
+    world.spawn((
       Vincubus {
         eye_facing,
         eye_looking,
@@ -355,69 +451,8 @@ impl Command for SpawnVincubusCommand {
       LArmState::Hip,
       RArmState::Hangin,
       TailState::Flip,
+      Visibility::Visible,
     ));
-    vincubus.add_children(&[
-      eye_facing,
-      eye_looking,
-      head_neutral,
-      head_sad,
-      head_surprise,
-      head_sad,
-      l_arm_hip,
-      l_arm_shrug,
-      body,
-      r_arm_hangin,
-      r_arm_shrug,
-      tail_flip,
-      tail_flop,
-    ]);
-  }
-}
-
-///////////////////
-// Asset Loading //
-///////////////////
-
-mod sprite_filenames {
-  type S = &'static str;
-
-  pub const TAIL_1:        S = "vincubus/sprites/0_Tail_1.png";
-  pub const TAIL_2:        S = "vincubus/sprites/0_Tail_2.png";
-  pub const R_ARM_HANGIN:  S = "vincubus/sprites/1_R_Hangin.png";
-  pub const R_ARM_SHRUG:   S = "vincubus/sprites/1_R_Shrug.png";
-  pub const BODY:          S = "vincubus/sprites/2_Body.png";
-  pub const L_ARM_HIP:     S = "vincubus/sprites/3_L_On_Hip.png";
-  pub const L_ARM_SHRUG:   S = "vincubus/sprites/3_L_Shrug.png";
-  pub const HEAD_NEUTRAL:  S = "vincubus/sprites/4_Head_Neutral.png";
-  pub const HEAD_SAD:      S = "vincubus/sprites/4_Head_Sad.png";
-  pub const HEAD_SURPRISE: S = "vincubus/sprites/4_Head_Surprise.png";
-  pub const HEAD_TALK:     S = "vincubus/sprites/4_Head_Talk.png";
-  pub const EYE_FACING:    S = "vincubus/sprites/5_Eye_Facing.png";
-  pub const EYE_LOOKING:   S = "vincubus/sprites/5_Eye_Looking.png";
-}
-
-#[derive(Resource)]
-struct LoadState {
-  finished_loading: bool,
-  sprites: HashSet<Handle<Image>>,
-}
-
-fn update_load_state(
-  mut load_state: ResMut<LoadState>,
-  asset_server: Res<AssetServer>,
-) {
-  if load_state.finished_loading {
-    return;
-  }
-
-  load_state.sprites.retain(|sprite| {
-    asset_server
-      .get_recursive_dependency_load_state(sprite)
-      .is_none_or(|state| !state.is_loaded())
-  });
-
-  if load_state.sprites.len() == 0 {
-    load_state.finished_loading = true;
   }
 }
 
