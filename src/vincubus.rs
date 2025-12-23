@@ -430,7 +430,7 @@ impl Command for SpawnVincubusCommand {
     )).id();
 
     // Root Entity
-    world.spawn((
+    let mut vincubus = world.spawn((
       Vincubus {
         eye_facing,
         eye_looking,
@@ -452,7 +452,23 @@ impl Command for SpawnVincubusCommand {
       RArmState::Hangin,
       TailState::Flip,
       Visibility::Visible,
+      Transform::from_xyz(0., 0., 0.),
     ));
+    vincubus.add_children(&[
+      eye_facing,
+      eye_looking,
+      head_neutral,
+      head_sad,
+      head_surprise,
+      head_talk,
+      l_arm_hip,
+      l_arm_shrug,
+      body,
+      r_arm_hangin,
+      r_arm_shrug,
+      tail_flip,
+      tail_flop,
+    ]);
   }
 }
 
