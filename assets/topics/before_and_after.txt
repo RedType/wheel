@@ -131,9 +131,7 @@ Backward Pass The Ketchup
 Bacon Slice Of Pie
 Bad Hair Day Care Center
 Baking & Blasting Powder
-Baking From Scratch ‘N' Sniff
-Baking From Scratch “N” Sniff
-Baking From Scratch 'N' Sniff
+Baking From Scratch ‘N Sniff
 Baking Powder Puff
 Baking Soda Fountain
 Baking Soda Pop
@@ -668,8 +666,7 @@ Fill In The Blank Check
 Filthy Rich Little
 Final Destination Unknown
 Finger Painting The Town Red
-Finger-Painting The Town Red
-Finish Line-By -Line Debate
+Finish Line-By-Line Debate
 Fire-Engine Red Zone
 First Aid Kit And Caboodle
 First Class Cabin Fever
@@ -1712,8 +1709,6 @@ See Eye To Eye Exam
 See Spot Run For Office
 Seeing Double Agent
 Seeing Double Indemnity
-Selfie Stick In The Mud
-Selfie Stick- In-The Mud
 Selfie Stick To It
 Selfie Stick-In-The-Mud
 Sense Of Justice League
@@ -1931,7 +1926,6 @@ Taken By Surprise Birthday Party
 Taking The Lead Actor
 Talent Search Warrant
 Talk Is Cheap Thrills
-Talk Shop ‘Til You Drop
 Talk Shop 'til You Drop
 Talking Heads Of State
 Tan Line In The Sand
