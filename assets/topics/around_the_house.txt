@@ -1,3 +1,4 @@
+Around The House
 A Glass Of Bourbon
 A Nice Hot Shower
 A Pile Of Coats
@@ -56,7 +57,6 @@ Area Rugs
 Arm & Hammer Spinbrush
 Armchair
 Armless Chair
-Around The House
 Art Deco Bedroom Set
 Attic Stairs
 Automatic Garage Door Opener
@@ -126,10 +126,9 @@ Big-Screen High-Definition Tv
 Big-Screen Television
 Biodegradable Cleaners
 Birdbath
-Black-And White Family Photograph
 Black-And-White Family Photograph
 Blanket Made Of Granny Squares
-Blankets And Comforters
+Blankets & Comforters
 Blown Fuse
 Blue Glass Cleaner
 Blue Jeans
@@ -173,11 +172,10 @@ Broadband Internet Connection
 Bronze Table Lamps
 Brooks Brothers Men's Suit
 Broom & Dustpan
-Broom And Dustpan
 Brooms & Dustpans
 Brow Brush
 Brown Leather Love Seat
-Brush And Comb
+Brush & Comb
 Bubble Bath
 Building Kitchen Cupboards
 Built-In Shelves
@@ -563,7 +561,6 @@ Fluffy Bathrobe
 Fluffy Cotton Robe
 Fluffy Pillows
 Fluffy Pillows & Soft Blankets
-Fluffy Pillows And Soft Blankets
 Fluffy Robe
 Fluffy Towels
 Fluffy White Towels
@@ -652,7 +649,7 @@ Goose Down Pillows
 Goose-Down Pillow
 Grandmother's Fur Coat
 Granite Countertops
-Gravy Boat And Ladle
+Gravy Boat & Ladle
 Green-Tea Facial Scrub
 Grill Gloves
 Guest Bed
@@ -741,17 +738,15 @@ Hot Water Heater
 Humidifier
 Hydrogen Peroxide
 Hydrotherapy Shower
-Ice Bucket And Tongs
+Ice Bucket & Tongs
 Illuminated Desktop Globe
 Incense Burner
 Indoor Fan
-Industrial Strength Rubber Gloves
 Industrial-Strength Rubber Gloves
 Inedible Dining Experience
 Inflatable Pool Toys
 Insect Repellent
 Insulated Boots
-Insulated Curtain
 Insulated Curtains
 Insulated Overcoat
 Interactive Cooktop
@@ -885,10 +880,10 @@ Matching Towels & Shower Curtains
 Media Wall
 Medicine Chest
 Memo Pad
-Memo Pad And Pencil
+Memo Pad & Pencil
 Memory-Foam Pet Mat
-Men's Dress Watch
-Men's Plaid Scarf
+Mens' Dress Watch
+Mens' Plaid Scarf
 Mesh Laundry Bag
 Metal Bed Frame
 Metal Bookshelf
@@ -1025,7 +1020,7 @@ Patterned-Fabric Shower Curtain
 Peace Sign Pendant
 Peace-Sign Pendant
 Penny Loafers
-Pens And Pencils
+Pens & Pencils
 People
 Persian Rug
 Personal Computer
@@ -1130,7 +1125,6 @@ Queen-Size Bed
 Queen-Size Upholstered Panel Bed
 Rain Barrel
 Rake & Shovel
-Rake And Shovel
 Reading Desk
 Reading Pillow
 Ready To Wear Jackets
@@ -1219,7 +1213,7 @@ Sharp Pruning Shears
 Sharp Scissors
 Shaving Cream
 Sheer Linen Curtains
-Sheets And Pillowcases
+Sheets & Pillowcases
 Shimmering Crystal Chandelier
 Shoe Rack
 Shoebox
@@ -1373,7 +1367,6 @@ Sturdy Shelves
 Sturdy Table
 Sturdy Wooden Table
 Styling Gel & Hairbrush
-Styling Gel And Hairbrush
 Stylish Ballet Flats
 Stylish End Tables
 Stylish Patio Lights
@@ -1386,9 +1379,7 @@ Suede Jacket
 Suit Pants
 Sunburst Clock
 Sunken Bathtub
-Surround Sound Speakers
-Surround Sound Stereo
-Surround – Sound Speakers
+Surround-Sound Stereo
 Surround-Sound Speakers
 Suspension Candlestick
 Sweater Beanies
@@ -1405,7 +1396,6 @@ Table Settings
 Tablecloth
 Tablecloth & Napkins
 Tables & Chairs
-Tables And Chairs
 Tabletop Decor
 Tableware
 Tackle Box
@@ -1436,7 +1426,6 @@ Throw Pillow
 Throw Pillows
 Throw Rugs
 Throws & Blankets
-Throws And Blankets
 Thumbtack
 Tie & Belt Rack
 Tie-Dyed T-Shirt
@@ -1451,8 +1440,8 @@ Toilet Tank
 Tool Chests
 Toolkits
 Toothbrush
-Toothpaste And Mouthwash
-Toothpaste With Baking Soda And Peroxide
+Toothpaste & Mouthwash
+Toothpaste With Baking Soda & Peroxide
 Toothpicks
 Towel Racks
 Tower Clocks

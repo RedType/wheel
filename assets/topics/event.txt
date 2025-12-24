@@ -1,3 +1,4 @@
+Event
 A Bicycle Tour
 A Big Bash
 A Big Decision
@@ -29,7 +30,7 @@ A Cruise To The Islands
 A Cycling Trip Along The Coast
 A Date At The Coffeehouse
 A Day At The Zoo
-A Day Of Sunshine And Smiles
+A Day Of Sunshine & Smiles
 A Day Trip To Cute Little Village
 A Day Trip To Niagara Falls
 A Difficult Hike
@@ -44,9 +45,7 @@ A Game In Extra Innings
 A Game Of Scrimmage
 A Gathering Around A Fire Pit
 A Gathering Around Fire Pit
-A Get Together With Family And Friends
 A Get-Together With Friends & Family
-A Get-Together With Friends And Family
 A Glamping Adventure
 A Guided Fishing Trip On The Rogue River
 A Hike On A Greek Island
@@ -69,7 +68,6 @@ A Night At The Opera
 A Night Of Club Hopping
 A Night Of Club-Hopping
 A Night Of Dinner & Dancing
-A Night Of Dinner And Dancing
 A Night On The Town
 A Night Out In Gazi
 A Night Out On The Town On Sixth Street
@@ -331,7 +329,6 @@ After-Hours Party
 After-School Activity
 Afternoon Business Meeting
 Afternoon Cocktails & A Matinee
-Afternoon Cocktails And A Matinee
 Afternoon Downpour
 Afternoon Garden Party
 Afternoon Movie
@@ -354,7 +351,7 @@ Alaskan Cruise
 Album Tour
 Album-Release Party
 All Souls' Day
-All The Family Laughing And Singing
+All The Family Laughing & Singing
 All-Day Hiking Tour
 All-Day Private Bike Tour
 All-Day Seminar
@@ -659,7 +656,7 @@ Boat Tour
 Boating Excursion
 Boating Safari
 Bon Voyage Party
-Bone Fires And Pep Rallies
+Bone Fires & Pep Rallies
 Bonfire
 Bonfires & Pep Rallies
 Bonfires & Pet Rallies
@@ -1041,8 +1038,8 @@ Deveining Shrimp
 Devil's Night
 Diagnostic Test
 Dinner
+Dinner & A Movie
 Dinner & Drinks
-Dinner And A Movie
 Dinner At A Charming New Restaurant
 Dinner Cruise
 Dinner For Two
@@ -1064,7 +1061,6 @@ Doing A Triathlon
 Don't Go To Work Unless It's Fun Day
 Dormant Volcano Roars To Life
 Double & Triple Plays
-Double And Triple Plays
 Double Date
 Double Feature
 Double Play
@@ -1097,7 +1093,7 @@ Driving Tour
 Driving Under The Speed Limit
 Driving-Safety Fair
 Drum Solo
-Dry And Rainy Seasons
+Dry & Rainy Seasons
 Dry Summer
 Dynamic Dining Experience
 Eagle Watching Trip
@@ -1158,7 +1154,6 @@ Endurance Test
 Energizing Workout
 Engagement Party
 Engagements & Weddings
-Engagements And Weddings
 Engaging Live Shows
 English Class
 English Language Classes
@@ -1192,7 +1187,6 @@ Evening Mass
 Evening Thunderstorm
 Evening Walk
 Evening Workout
-Event
 Event Ticket
 Everyday Occurrences
 Evolutionary Transitions
@@ -1310,7 +1304,6 @@ Festival Of Lights
 Festival Of The Year
 Festivals & Celebrations
 Festivals & Holidays
-Festivals And Celebrations
 Festive Afternoon
 Festive Dinner
 Festive Get-Together
@@ -1341,7 +1334,6 @@ Finishing A Marathon
 Finishing In First Place
 Fire-Eating Performance
 Fireworks & Festivities
-Fireworks And Festivities
 Fireworks Display
 Fireworks Over Lake Austin
 Fireworks Over Sydney Harbor
@@ -1379,7 +1371,7 @@ First Time On Stage
 First Walmart Opens
 First-Ever Heart Transplant
 First-Ever Super Bowl
-Fish And Potato Bake
+Fish & Potato Bake
 Fish Fry
 Fishing Charter
 Fishing Holiday
@@ -1548,7 +1540,7 @@ Going Out Of Business Sale
 Going Out On A Double Date
 Going Scuba Diving
 Going White-Water Rafting
-Golden Age Of Peace And Prosperity
+Golden Age Of Peace & Prosperity
 Golden Mango Season
 Golden-Eagle Sighting
 Golf Courses
@@ -1785,7 +1777,7 @@ Humid Afternoon
 Humid Weather
 Hundred Years' War
 Hungry Ghost Festival
-Hunting And Fishing
+Hunting & Fishing
 Ibm-Pc Invented
 Ice Fishing
 Ice Storm
@@ -2566,7 +2558,6 @@ Political Fundraiser
 Pool & Deck Party
 Pool Parties
 Pool Parties & Barbecues
-Pool Parties And Barbecues
 Pool Party
 Pool Party At Barton Springs Pool
 Popping The Question
@@ -2629,7 +2620,7 @@ Prolonged Period Of Time
 Prom Night
 Promotion
 Promotional Giveaway
-Proms And Galas
+Proms & Galas
 Prospecting For Gold
 Psychic Reading
 Pta Meeting
@@ -2677,7 +2668,6 @@ Rare Occasion
 Rare Personal Appearance
 Ratification Of The Constitution
 Raves & Electronic Festivals
-Raves And Electronic Festivals
 Reaching Cruising Altitude
 Read-Through
 Real Estate Transaction
@@ -2873,7 +2863,6 @@ Semiannual Sale
 Semifinal Round
 Semifinals
 Seminars & Workshops
-Seminars And Workshops
 Senate Hearing
 Senior Hurling Championship
 Senior Prom
@@ -2901,7 +2890,7 @@ Shore Excursion
 Shore Excursions
 Short Visit
 Shorter Downtimes
-Show And Tell
+Show & Tell
 Show Intermission
 Show-And Tell
 Show-And-Tell
@@ -3088,7 +3077,6 @@ Strawberry Season
 Street Bazaar
 Street Fair
 Street Fair & Chili Cook-Off
-Street Fair And Chili Cook-Off
 Street Parade
 Street Parties
 Street Party
@@ -3190,7 +3178,7 @@ Tailgating Before A Big Game
 Tailor-Made Custom Tours
 Tailor-Made Tour
 Tailored Holiday
-Take Our Daughters And Sons To Work Day
+Take Our Daughters & Sons To Work Day
 Take-Your-Child-To-Work Day
 Take-Your-Child-To-Work-Day
 Taking A Bike Trip
@@ -3332,7 +3320,6 @@ The Twenty-First Century
 The Ugly Duckling Turns Into A Swan
 The Venice Carnival
 The Wedding Of Prince Harry & Meghan Markle
-The Wedding Of Prince Harry And Meghan Markle
 The Whole Family Playing Together
 The Wimbledon Championship
 The Wimbledon Championships
@@ -3364,16 +3351,15 @@ Thrilling Outdoor Adventure
 Throwing A Party
 Throwing A Temper Tantrum
 Thunder
+Thunder & Lightening Storm
 Thunder & Lightning Storm
 Thunder & Lightning Storms
-Thunder And Lightening Storm
-Thunder And Lightning Storms
 Thunderstorm
 Tie Game
 Tiebreaker
 Tight Race
 Time To Be Happy
-Today Tomorrow And Yesterday
+Today Tomorrow & Yesterday
 Tomato Art Festival
 Top Of The Hour
 Top Of The Ninth
@@ -3398,7 +3384,7 @@ Town Meeting
 Town-Hall Meeting
 Town-Hall Meetings
 Toy Drive
-Track And Field Events
+Track & Field Events
 Track Meet
 Track-And-Field Competition
 Tractor Show
@@ -3507,7 +3493,7 @@ Vacation With Pay
 Vacationing In Acapulco
 Vacuuming Out Your Car
 Valentines Day
-Value Clarity And Color Of Diamonds
+Value Clarity & Color Of Diamonds
 Variety Of Cultural Performances
 Vegetarian Festival
 Vehicle Inspection
@@ -3759,7 +3745,7 @@ Yearly Conventions
 Yearly Dental Checkup
 Yearly Medical Checkup
 Yearly Retreat
-Yesterday Today And Tomorrow
+Yesterday Today & Tomorrow
 Yoga Class
 Young Parent
 Zip Codes Used For The First Time In The U.S.

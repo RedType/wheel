@@ -1,3 +1,4 @@
+Fictional Character
 A Damsel In Distress
 A Giant Robot
 A Howling Werewolf
@@ -23,7 +24,6 @@ Alchemist
 Alex Cross
 Alex Danvers
 Alice & The Mad Hatter
-Alice And The Mad Hatter
 Alice Kingsleigh
 Alice Kingsley
 Alicia Florrick
@@ -31,7 +31,6 @@ Alien Creatures
 Allison Pond
 Ally Dawson
 Alvin & The Chipmunks
-Alvin And The Chipmunks
 Amanda Waller
 Amanda Woodward
 Amazing Shapeshifters
@@ -54,7 +53,6 @@ Anna Scott
 Anne Shirley
 Annie & George & Mitchell
 Annie Savoy & Ray Kinsella
-Annie Savoy And Ray Kinsella
 Annie Wilson
 Ant-Man
 Anthony Bridgerton
@@ -62,7 +60,7 @@ Anthony Dinozzo
 Aphrodite
 Aphrodite & Adonis
 Aphrodite Goddess Of Love
-Aphrodite Goddess Of Love And Beauty
+Aphrodite Goddess Of Love & Beauty
 Aphrodite Goddess Of The Love & Beauty
 Aphrodite The Goddess Of Love & Beauty
 Apollo
@@ -81,7 +79,7 @@ Arnold Jackson
 Artemis
 Artemis The Goddess
 Arthur Fonzarelli
-Arya And The Hound
+Arya & The Hound
 Arya Stark
 Asgardians
 Ashley Walker
@@ -93,7 +91,7 @@ Atticus Finch & Scout
 Austin Moon
 Austin Powers
 Ayla
-Ayra And The Hound
+Ayra & The Hound
 Babar
 Baby Luma
 Bacchus & Ariadne
@@ -104,7 +102,6 @@ Bandersnatch
 Barbara Maitland
 Barbie & Ken
 Barney & Betty Rubble
-Barney And Betty Rubble
 Barney Fife & Thelma Lou
 Barney Hefner
 Barney Rubble
@@ -118,14 +115,12 @@ Bart Simpson
 Bartender Isaac Washington
 Batman
 Batman & Robin
-Batman And Robin
 Batman Villain Scarecrow
 Batwoman
 Bazooka Joe
 Beautiful Heroine
 Beautiful Princess
 Beautiful Princesses & Handsome Princes
-Beautiful Princesses And Handsome Princes
 Beaver Cleaver
 Beavis
 Becky Thatcher
@@ -161,7 +156,6 @@ Birdman
 Birdo & Pauline
 Biscuit The Dog
 Bizarro & Black Adam
-Bizarro And Black Adam
 Black Beauty
 Black Belt
 Black Bolt
@@ -183,7 +177,7 @@ Bobbie Jo Bradley
 Bobby Brady
 Bonnie Bennett
 Boogieman
-Boris And Natasha
+Boris & Natasha
 Boris Badenov & Natasha Fatale
 Boss Hogg
 Bowser
@@ -253,7 +247,6 @@ Cassiopeia
 Castor & Pollux
 Catwoman
 Catwoman & The Penguin
-Catwoman And The Penguin
 Cavewoman
 Cece Parekh
 Centaur
@@ -265,7 +258,7 @@ Chachi Arcola
 Chandler & Phoebe
 Charismatic Creatures
 Charles Ingalls
-Charley Brown And Snoopy
+Charley Brown & Snoopy
 Charlie Brown & Snoopy
 Charlie Brown Snoopy & Woodstock
 Charlie Mccarthy
@@ -288,7 +281,6 @@ Chuck Todd
 Cinderella
 Cinderella & Her Fairy Godmother
 Cinderella & Prince Charming
-Cinderella And Prince Charming
 Cinderella's Wicked Stepsisters
 Cindy Brady
 Cindy Lou Who
@@ -300,7 +292,6 @@ Claire Littleton
 Claire Underwood
 Clarence Odbody The Angel
 Clark & Ellen Griswold
-Clark And Ellen Griswold
 Clark Kent
 Clark Kent & Lois Lane
 Clayface
@@ -327,12 +318,10 @@ Conan The Barbarian
 Conquistador
 Cookie Monster
 Cory & Topanga
-Cory And Topanga
 Cosmo Spacely
 Costumed Reveler
 Count Dracula
 Country Mouse & City Mouse
-Country Mouse And City Mouse
 Cousin Itt
 Coven Of Witches
 Crazy Eyes
@@ -377,7 +366,7 @@ Darrell Cartrip
 Darth Vader
 Darth Vader & Luke Skywalker
 Dasher & Dancer
-Dasher Dancer Prancer And Vixen
+Dasher Dancer Prancer & Vixen
 Dashing Hero
 Dawson
 Dayanara Diaz
@@ -420,7 +409,7 @@ Dolores Abernathy
 Don Draper
 Don Lockwood
 Don Quixote
-Don Quixote And Sancho Panza
+Don Quixote & Sancho Panza
 Donald & Daisy Duck
 Donald Cragen
 Donald Duck
@@ -430,14 +419,14 @@ Donner & Blitzen
 Doogie Howser
 Doomsday & General Zod
 Dormammu
-Dorothy And Toto
+Dorothy & Toto
 Dorothy Baxter
 Dorothy From The Wonderful Wizard Of Oz
 Dorothy Gale
 Dory & Nemo
 Dot Warner
 Double Apple Pie With Cornmeal Crust
-Dr Mccoy And Uhura
+Dr Mccoy & Uhura
 Dr. Alex Karev
 Dr. Bruce Banner
 Dr. Christian Troy
@@ -445,7 +434,7 @@ Dr. Dolittle
 Dr. Emmett Brown
 Dr. Frankenstein
 Dr. Frankenstein's Assistant Igor
-Dr. Jekyll And Mr. Hyde
+Dr. Jekyll & Mr. Hyde
 Dr. Mccoy & Uhura
 Dr. Nicole Herman
 Dr. No
@@ -458,7 +447,6 @@ Dragon Queen
 Dragons & Elves
 Dragons & Knights
 Dreamers & Doers
-Dreamers And Doers
 Dumbo The Elephant
 Dumbo The Flying Elephant
 Dwarves Goblins & Gnomes
@@ -493,7 +481,6 @@ Elves & Dwarves
 Elves & Fairies
 Elves & Gnomes
 Elves Pixies & Fairies
-Elves Pixies And Fairies
 Emily Elizabeth
 Emma Swan
 Enchanted Princess
@@ -507,7 +494,6 @@ Eric Murphy
 Eric Taylor
 Eros & Cupid
 Eros & Psyche
-Eros And Psyche
 Eros God Of Love
 Eros The Greek God Of Love
 Ethan Hunt
@@ -540,8 +526,6 @@ Felix Unger
 Ferdinand The Faithful
 Ferris Bueller
 Fezziwig
-Fictional Character
-Fictional Creature
 Figure Competition
 Fine Tooth Comb
 Finn & Rey
@@ -561,7 +545,6 @@ Flower Fairies
 Flying Beast & Magical Creatures
 Flying Beasts
 Flying Beasts & Magical Creatures
-Flying Beasts And Magical Creatures
 Flying Reindeer
 Flynn Rider
 Foghorn Leghorn
@@ -586,7 +569,7 @@ Fred Flintstone
 Fred Flintstone & Barney Rubble
 Fred Flintstone's Boss Mr. Slate
 Fred G. Sanford
-Fred, Daphne, Velma, And Shaggy
+Fred, Daphne, Velma, & Shaggy
 Freddy Krueger
 French Stewart As Harry Solomon
 Frey & Freya
@@ -602,13 +585,11 @@ Frightening Zombies
 Frightful Goblins
 Frightful Ogre
 Frodo & Bilbo
-Frodo And Bilbo
 Frodo Baggins
 Frolicking Elves
 Frost Giants
 Frosty The Snowman
 Frosty The Snowman & Santa Claus
-Frosty The Snowman And Santa Claus
 Funshine Bear
 Funshine Bears
 G.I. Joe
@@ -652,7 +633,6 @@ Giggling Ghouls
 Gilligan & The Skipper
 Gina Waters-Payne
 Ginger & Mary Ann
-Ginger And Mary Ann
 Ginny Weasley
 Gizmo
 Gizmo & Stripe
@@ -663,8 +643,6 @@ Gloria Mundy
 Gnomes & Fairies
 Gnomes & Goblins
 Gnomes & Leprechauns
-Gnomes And Fairies
-Gnomes And Leprechauns
 Goblin Prince
 Goblins & Fairies
 Goblins & Gargoyles
@@ -675,7 +653,7 @@ Goddess Hathor
 Goddess Libertas
 Godzilla
 Goldilocks
-Goldilocks And The Three Bears
+Goldilocks & The Three Bears
 Gomer & Goober Pyle
 Gomer Pyle
 Gomez & Morticia Addams
@@ -690,8 +668,8 @@ Grace King Bichon
 Grandmama Addams
 Greek Goddess Aphrodite
 Greek Gods
+Greek Gods & Goddess
 Greek Gods & Goddesses
-Greek Gods And Goddess
 Greek Heroes
 Green Arrow
 Green Goblin
@@ -699,7 +677,6 @@ Green Lantern
 Green Monsters
 Greg Brady
 Greg Peter & Bobby Brady
-Greg Peter And Bobby Brady
 Gregor Clegane
 Gregore Clegane
 Griffin
@@ -722,7 +699,7 @@ Hank Henshaw
 Hank Hill
 Hank Mccoy
 Hank Pym
-Hannah Horvath And Marnie Michaels
+Hannah Horvath & Marnie Michaels
 Hannibal Lecter
 Hansel & Gretel
 Happy & Grumpy
@@ -739,7 +716,6 @@ Hawkeye Pierce
 Headless Horseman
 Heath Barkley
 Heckle & Jeckle
-Heckle And Jeckle
 Helen Crump
 Helios & Phaethon
 Hello Kitty
@@ -779,7 +755,6 @@ Howling Phantoms
 Howling Werewolves
 Huckleberry Hound
 Huey Dewey & Louie
-Huey Dewey And Louie
 Huginn & Muninn
 Hulk Villain Abomination
 Humanity-Protecting God Thor
@@ -884,7 +859,6 @@ Juno The Goddess Of Marriage
 Juno The Queen Of The Gods
 Juno: Goddess Of Women
 Jupiter & Juno
-Jupiter And Juno
 Jupiter King Of The Gods
 Jupiter The King Of The Gods
 Jupitor & Juno
@@ -909,7 +883,6 @@ Kermit The Frog
 Kermit The Frog & Fizz Is Bear
 Kermit The Frog & Fozzie Bear
 Kermit The Frog & Miss Piggy
-Kermit The Frog And Miss Piggy
 Kevin & Winnie
 Kevin Fictional Character Kevin Flynn
 Kevin Garvey
@@ -921,8 +894,8 @@ Kim Possible
 Kim Wexler
 Kimber Henry
 King Arthur
+King Arthur & His Knights
 King Arthur & The Knights Of The Round Table
-King Arthur And His Knights
 King Candy
 King Ecbert
 King Kong
@@ -997,7 +970,6 @@ Little Orphan Annie
 Little Orphan Annie & Sandy
 Little Red Riding Hood
 Little Red Riding Hood & Her Grandmother
-Little Red Riding Hood And Her Grandmother
 Little Red Riding Hood's Grandmother
 Little Tommy Tucker
 Liv Rooney
@@ -1022,10 +994,9 @@ Lucille Bluth
 Lucky Elves
 Lucy & Linus
 Lucy & Schroeder
-Lucy And Linus
 Lucy Carter
 Lucy Eleanor Moderatz
-Lucy Linus Schroeder And Charlie Brown
+Lucy Linus Schroeder & Charlie Brown
 Lucy Pevensie
 Lucy Ricardo
 Lucy Van Pelt
@@ -1099,15 +1070,13 @@ Max Evans
 Max Roby
 Maxwell Smart
 Me. Perfect
-Meadow And Aj Soprano
+Meadow & Aj Soprano
 Meg Murry & Calvin O'Keefe
-Meg Murry And Calvin O'Keefe
 Megan Hunt
 Mel Sharples
 Menacing Monsters
 Mephisto
 Mera & Aquaman
-Mera And Aquaman
 Merlin
 Merlin The Magician
 Mermaids & Mermen
@@ -1136,7 +1105,7 @@ Mimi Bobeck
 Minerva & Neptune
 Minerva Mcgonagall
 Minnie Mouse
-Minnie Mouse And Mickey Mouse
+Minnie Mouse & Mickey Mouse
 Minotaur
 Minotaurs & Dragons
 Miranda Hobbes
@@ -1187,7 +1156,6 @@ Mrs. Peacock
 Mrs. Pepper
 Mrs. Robinson
 Muggles & Wizards
-Muggles And Wizards
 Mulan
 Mulder & Scully
 Muriel Pritchett
@@ -1247,7 +1215,7 @@ Odafin Tutuola
 Odda The Younger
 Odin & Thor
 Odysseus & The Cyclops
-Odysseus And The Cyclops 
+Odysseus & The Cyclops 
 Officer Carl Mcmillan
 Officer Dibble
 Officer Gunther Toody
@@ -1295,7 +1263,7 @@ Paradise Valley Montana
 Paranormal Investigation Team
 Park Mascot
 Parker Rooney
-Patrick Star And Squidward Tentacles
+Patrick Star & Squidward Tentacles
 Patty Fenn
 Paul Blart
 Paul Bunyan
@@ -1311,7 +1279,6 @@ Pegasus The Winged Horse
 Peggy Bundy
 Peggy Olson
 Peggy Olson & Don Draper
-Peggy Olson And Don Draper
 Penance
 Penelope Garcia
 Penny & Leonard
@@ -1321,13 +1288,13 @@ Peppermint Patty
 Perry Mason
 Persephone
 Persephone The Goddess Queen Of The Underworld
+Peter & Jane Fonda
 Peter & Lois Griffin
-Peter And Jane Fonda
 Peter Brady
 Peter Cottontale
 Peter Pan
 Peter Parker
-Peter Parker And Mary Jane Watson
+Peter Parker & Mary Jane Watson
 Peter Peter Pumpkin Eater
 Peter Piper
 Peter Rabbit
@@ -1382,7 +1349,6 @@ Princess Jasmine
 Princess Leia
 Princess Peach
 Princesses & Fairies
-Princesses And Fairies
 Principal Skinner
 Prodigy & Squirrel Girl
 Professor Dumbledore
@@ -1430,7 +1396,6 @@ Red Skull
 Reed Richards
 Regina Mills
 Rhett Butler & Scarlett O'Hara
-Rhett Butler And Scarlett O'Hara
 Richard Castle
 Richie Cunningham
 Richie Rich
@@ -1448,8 +1413,6 @@ Robinson Crusoe
 Rocket Raccoon
 Rocky & Adrian Balboa
 Rocky & Bullwinkle
-Rocky And Adrian Balboa
-Rocky And Bullwinkle
 Rocky Balboa
 Roderigo & Iago
 Roger Murtaugh
@@ -1457,10 +1420,10 @@ Roger Rabbit
 Roman Goddess
 Roman Goddess Venus
 Roman Gods
-Romeo And Juliet
+Romeo & Juliet
 Romulans
 Romulus
-Romulus And Remus
+Romulus & Remus
 Ron Burgundy & Brick Tamland
 Ronald Mcdonald
 Rory Gilmore
@@ -1494,7 +1457,6 @@ Santa & Mrs. Claus
 Santa Claus
 Santa Claus & His Elves
 Santa Claus & The Easter Bunny
-Santa Claus And His Elves
 Santa Clause & His Elves
 Santa's Elves
 Santa's Reindeer
@@ -1514,7 +1476,7 @@ Scarlett O'Hara
 Scary Clowns
 Scary Creature
 Scary Ghosts
-Scary Ogres And Friendly Sprites
+Scary Ogres & Friendly Sprites
 Scary Werewolves
 School Mascot
 Scooby Doo
@@ -1538,7 +1500,7 @@ Seth Bullock
 Seven Of Nine
 Shaggy & Scooby Doo
 Shaggy & Scooby-Doo
-Shaggy And Velma
+Shaggy & Velma
 Shapeshifters
 Sharon Carter
 Shawn Spencer
@@ -1548,7 +1510,6 @@ She-Wolf
 Sheila & Joel Hammond
 Sheila Shay
 Sheldon Cooper & Amy Farrah Fowler
-Sheldon Cooper And Amy Farrah Fowler
 Shere Khan
 Sheriff Of Nottingham
 Sheriff Stilinski
@@ -1558,8 +1519,7 @@ Sherlock Holmes & Dr. Watson
 Sherlock Holmes & Watson
 Shirley Feeney
 Shrek & Princess Fiona
-Shrek And Princess Fiona
-Shylock And Antonio
+Shylock & Antonio
 Sideshow Bob
 Siena Rosso
 Siggy Haraldson
@@ -1575,7 +1535,6 @@ Sir Lancelot
 Sir Lionel & Sir Lucan
 Sir Palamedes
 Sir Percival & Sir Gareth
-Sir Percival And Sir Gareth
 Sir Tor & Sir Tristan
 Skeletons & Ghouls
 Skibidi Toilet
@@ -1668,8 +1627,8 @@ Sweaters & Fleeces
 Sweathogs
 Sweet Polly Purebred
 Swordsman
+Sylvester & The Magic Pebble
 Sylvester & Tweety
-Sylvester And The Magic Pebble
 Sylvester The Cat
 Sylvia Tilly
 Synth Max
@@ -1678,7 +1637,6 @@ Talia Al Ghul
 Talking Animals
 Tami Taylor
 Tarzan & Jane
-Tarzan And Jane
 Tazmanian Devil
 Ted Baxter & Lou Grant
 Teddy Duncan
@@ -1707,7 +1665,6 @@ The Byrde Family
 The Centaurs
 The Cheshire Cat
 The Cheshire Cat & The Queen Of Hearts
-The Cheshire Cat And The Queen Of Hearts
 The Cowardly Lion
 The Crawley Family
 The Crew Of The Starship Enterprise
@@ -1721,13 +1678,12 @@ The Draugr
 The Duncan Family
 The Evil Queen
 The Evil Witch & The Good Princess
-The Evil Witch And The Good Princess
 The Fantastic Four
-The Farmer And The Stork
+The Farmer & The Stork
 The Featherington Family
 The Flash
 The Flash Villain Zoom
-The Flinstones And The Rubbles
+The Flinstones & The Rubbles
 The Flint Stones & The Rubbles
 The Flintstones & The Rubbles
 The Frog Prince
@@ -1736,7 +1692,6 @@ The Geico Gecko
 The Genie In The Magic Mirror
 The Ghost Of Christmas Past
 The Ghosts Of Christmas Past Present & Yet-To-Com
-The Ghosts Of Christmas Past Present And Yet-To-Com
 The Gingerbread Man
 The God Atlas
 The Goddess Hera
@@ -1751,11 +1706,11 @@ The Greek God Apollo
 The Green Knight
 The Grim Reaper
 The Grinch
-The Grinch And Cindy Lou Who
+The Grinch & Cindy Lou Who
 The Grinch Who Stole Christmas
 The Griswolds
 The Gryphon
-The Hare And The Tortoise
+The Hare & The Tortoise
 The Human Torch
 The Huntsman
 The Incredible Hulk
@@ -1792,7 +1747,6 @@ The Pink Ladies
 The Pink Panther
 The Powerpuff Girls
 The Princess & A Frog
-The Princess And A Frog
 The Protagonist Of The Story
 The Queen Of Hearts
 The Red Queen
@@ -1826,13 +1780,11 @@ The Wild Things
 The Wildlings
 The Witches Of Macbeth
 The Wolf & Red Riding Hood
-The Wolf And Red Riding Hood
 Thea Queen
-Thelma And Vinton Harper
+Thelma & Vinton Harper
 Thelma Evans
 Theseus & Hippolyta
 Theseus & The Minotaur
-Theseus And The Minotaur
 Thomas The Tank Engine
 Thor
 Thor & Tyr
@@ -1856,7 +1808,6 @@ Titans & Titanesses
 Tobias Ragg
 Tom & Jerry
 Tom & Summer
-Tom And Jerry
 Tom Buchanan
 Tom Sawyer
 Tom Sawyer & Becky Thatcher
@@ -1928,9 +1879,7 @@ Warrant Officer Ellen Ripley
 Warren Worthington Iii
 Water Spirits
 Wednesday & Pugsley Addams
-Wednesday And Pugsley Addams
 Wendy & Peter Pan
-Wendy And Peter Pan
 Werewolf
 Werewolves & Monsters
 Werewolves, Vampires, & Ghosts
