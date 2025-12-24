@@ -1,4 +1,3 @@
-Fictional Character
 A Damsel In Distress
 A Giant Robot
 A Howling Werewolf
@@ -57,9 +56,9 @@ Annie & George & Mitchell
 Annie Savoy & Ray Kinsella
 Annie Savoy And Ray Kinsella
 Annie Wilson
+Ant-Man
 Anthony Bridgerton
 Anthony Dinozzo
-Ant-Man
 Aphrodite
 Aphrodite & Adonis
 Aphrodite Goddess Of Love
@@ -556,8 +555,8 @@ Fire-Breathing Flying Dragons
 Fire-Breathing Three-Headed Dragon
 Flash Thompson
 Flat Stanley
-Florence Jean “Flo” Castleberry
 Florence Jean Flo Castleberry
+Florence Jean “Flo” Castleberry
 Flower Fairies
 Flying Beast & Magical Creatures
 Flying Beasts
@@ -1278,10 +1277,10 @@ Otherworldly Beings
 Otherworldly Creature
 Otherworldly Creatures
 Ozymandias
-Pacey & Joey
 Pac-Man
 Pac-Man & Ms. Pac-Man
 Pac-Man Ghosts
+Pacey & Joey
 Paddington Bear
 Pagan Gods
 Pandora
@@ -1497,8 +1496,8 @@ Santa Claus & His Elves
 Santa Claus & The Easter Bunny
 Santa Claus And His Elves
 Santa Clause & His Elves
-Santa's Reindeer
 Santa's Elves
+Santa's Reindeer
 Sara Thibault
 Sarah Ashburn
 Sarah Conner
@@ -1545,6 +1544,7 @@ Sharon Carter
 Shawn Spencer
 Shazam
 She-Hulk
+She-Wolf
 Sheila & Joel Hammond
 Sheila Shay
 Sheldon Cooper & Amy Farrah Fowler
@@ -1556,7 +1556,6 @@ Sherlock Hemlock
 Sherlock Holmes
 Sherlock Holmes & Dr. Watson
 Sherlock Holmes & Watson
-She-Wolf
 Shirley Feeney
 Shrek & Princess Fiona
 Shrek And Princess Fiona
@@ -1642,8 +1641,8 @@ Storm Shadow
 Stormtrooper
 Strawberry Shortcake
 Sue Storm
-Sugarplum Fairies
 Sugar-Plum Fairies
+Sugarplum Fairies
 Sun-Hwa Kwon
 Sunny Days
 Super Friends
@@ -1982,10 +1981,10 @@ Woodland Sprites & Pixies
 Woodstock
 Woody Boyd
 Woody Woodpecker
-Xander Harris
 X-Men
 X-Men Villain Magento
 X-Men Villain Magneto
+Xander Harris
 Yoda
 Yogi Bear
 Yogi Bear & Boo Boo

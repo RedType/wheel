@@ -1,4 +1,3 @@
-Around The House
 A Glass Of Bourbon
 A Nice Hot Shower
 A Pile Of Coats
@@ -31,6 +30,7 @@ Angle Broom With Dustpan
 Angora Sweater
 Animal-Shaped Lamps
 Annual Sailing Weekend Event
+Anti-Wrinkle Cream
 Antibacterial Hand Wipes
 Antiplaque Mouthwash
 Antique Bathtub
@@ -50,7 +50,6 @@ Antique Sterling-Silver Coffeepot
 Antique Telephone
 Antique Vase
 Antique Victrola
-Anti-Wrinkle Cream
 Apple Cinnamon Candle
 Appointment Book
 Area Rugs
@@ -113,8 +112,8 @@ Beautiful Bedding
 Beautiful Coffee-Table Book
 Beautiful Decanter
 Beautiful Glass Vase
-Bedding & Bath
 Bed-In-A-Bag
+Bedding & Bath
 Bedsheets & Throw Pillows
 Bedside Lamp
 Bedside Table
@@ -196,7 +195,6 @@ Camp Shirt
 Candelabra
 Candle Centerpiece
 Candleholders
-Candelabra
 Canopy Bed
 Canvas Shelf Organizer
 Card Table & Folding Chairs
@@ -599,10 +597,10 @@ Fresh Clean Towels
 Fresh Linens
 Fresh Lines
 Fresh Smelling Bathroom Drain
+Fresh-Smelling Bathroom Drain
 Freshly Cleaned Shower Door
 Freshly Mopped Floor
 Freshly Washed Blankets
-Fresh-Smelling Bathroom Drain
 Frilly Apron
 Front Porch Swing
 Front-Loading Washing Machine
@@ -615,8 +613,8 @@ Full-Length Mirror
 Fully-Equipped Kitchen
 Funny Catch Phrases
 Fur Coat
-Furry Cat Tree
 Fur-Trimmed Parka
+Furry Cat Tree
 Fuzzy Slippers
 Galoshes
 Garage Cabinets
@@ -672,6 +670,9 @@ Hand Lotion With Lanolin
 Hand Sanitizer
 Hand Scrub
 Hand Soap
+Hand-Held Showerhead
+Hand-Knotted Rug
+Hand-Painted Silk Fans
 Handblown Crystal Wine Glasses
 Handblown Glass Bowl
 Handcrafted Furniture
@@ -680,13 +681,10 @@ Handcrafted Solid Oak Toy Chest
 Handcrafted Wall Decor
 Handheld Mirror
 Handheld Shower Wand
-Hand-Held Showerhead
 Handheld Vacuum
-Hand-Knotted Rug
 Handmade Holiday Decorations
 Handmade Marbled Napkins
 Handmade Scented Soaps
-Hand-Painted Silk Fans
 Handwoven Bamboo Mats
 Handwoven Blanket
 Handwoven Hamper
@@ -730,10 +728,9 @@ Home Movies On Sixteen Millimeter Film
 Home Movies On Sixteen-Millimeter Film
 Home Soda Maker
 Home Theater System
+Home-Office Furniture
 Homemade Cleaners
 Homemade Holiday Decorations
-Homemade Holiday Decorations
-Home-Office Furniture
 Homework Station
 Hooded Down Jacket
 Horizontal Metal Shed
@@ -975,9 +972,9 @@ Oak Bookcase
 Oak Coffee Table
 Oak Footboard
 Oak Roll-Top Desk
-Oiled Door Hinges
 Oil-Free Eye Makeup Remover
 Oil-Free Eye-Makeup Remover
+Oiled Door Hinges
 Old Batteries
 Old Family Keepsakes
 Old Jigsaw-Puzzle Box
@@ -1112,8 +1109,8 @@ Power Reclining Sofa
 Power Strip
 Power Tools
 Power Washer
-Powerful Dish Detergent
 Power-Reclining Sofa
+Powerful Dish Detergent
 Pre-Printed Address Labels
 Prescription Eyeglasses
 Pressed Pillowcases
@@ -1237,10 +1234,10 @@ Shower Gel
 Shower Radio
 Shower Stall
 Shrimp Pasta
+Side-By-Side Refrigerator
 Sideboard Set
 Sideboards Hutches & Consoles
 Sideboards, Hutches & Consoles
-Side-By-Side Refrigerator
 Silk Bed Linens
 Silver Bowl
 Silver Brooch
@@ -1389,9 +1386,9 @@ Suede Jacket
 Suit Pants
 Sunburst Clock
 Sunken Bathtub
-Surround – Sound Speakers
 Surround Sound Speakers
 Surround Sound Stereo
+Surround – Sound Speakers
 Surround-Sound Speakers
 Suspension Candlestick
 Sweater Beanies
@@ -1522,9 +1519,9 @@ Wall-Mounted Bookcases
 Wall-Mounted Shelves
 Wall-Mounted Storage
 Wall-Mounted Wine Racks
+Wall-To-Wall Carpeting
 Wallpaper & Paneling
 Wallpaper Sheets
-Wall-To-Wall Carpeting
 Warm Comfy Bed
 Warm Fuzzy Blanket
 Warm Pullover Sweater
@@ -1590,6 +1587,8 @@ Wood Furnishings
 Wood Glue
 Wood Vanity
 Wood Window Blinds
+Wood-Grained Paneling
+Wood-Paneled Ceiling
 Wooden Bookends
 Wooden Bookshelf
 Wooden Bookshelves
@@ -1607,8 +1606,6 @@ Wooden Shutters
 Wooden Stepladder
 Wooden Stools
 Wooden Table
-Wood-Grained Paneling
-Wood-Paneled Ceiling
 Wool Blazer
 Wool Pajamas
 Wool Shag Rug

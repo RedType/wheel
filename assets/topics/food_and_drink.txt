@@ -115,8 +115,6 @@ All-Natural Almonds
 All-Natural Ingredients
 All-Purpose Baking Mix
 All-Purpose White Flour
-Allspice & Anise
-Allspice Berries
 All-You-Can Eat Sushi Lunch Special
 All-You-Can-Eat Crab Legs
 All-You-Can-Eat Prime-Rib Dinner
@@ -124,6 +122,8 @@ All-You-Can-Eat Shrimp
 All-You-Can-Eat Sushi Lunch Special
 All-You-Can-Eat-Shrimps
 All-You-Can-Shrimp
+Allspice & Anise
+Allspice Berries
 Almond Baklava
 Almond Bear Claws
 Almond Beverage
@@ -144,10 +144,10 @@ Almond-Butter Snickerdoodles
 Almond-Crusted Wahoo
 Almond-Oat Bars
 Almond-Plum Tart
+Almond-Spiced Cappuccino
 Almonds
 Almonds & Hazelnuts
 Almonds-In-The-Shell
-Almond-Spiced Cappuccino
 Aloe Vera Juice
 Alphabet Pasta
 Alphabet Soup
@@ -182,8 +182,8 @@ Apollo-Crisp Bake
 Appetizer
 Appetizers & Champagne
 Appetizing Appetizers
-Apple & Pear Compote
 Apple & Carrot Shortbread
+Apple & Pear Compote
 Apple Babka
 Apple Bread
 Apple Brown Betty
@@ -244,22 +244,22 @@ Apple-Cranberry Stuffed Pork Chops
 Apple-Crisp Cake
 Apple-Crunch Muffin
 Apple-Gingerbread Cobbler
-Applejack
 Apple-Nut Muffins
+Apple-Walnut Chicken Salad
+Applejack
 Apples
 Apples & Brie
 Apples & Cheese
 Apples & Cinnamon
+Apples & Oranges
 Apples & Peanut Butter
 Apples & Pears
 Apples & Walnuts
-Apples & Oranges
 Apples Carrots & Potatoes
 Apples Oranges & Bananas
 Apples With Cinnamon
 Applesauce
 Applesauce Cake
-Apple-Walnut Chicken Salad
 Applewood-Smoked Bacon
 Applewood-Smoked Sea Salt
 Apricot Couscous
@@ -494,7 +494,6 @@ Bananas Dipped In Chocolate
 Bananas Figs & Coconuts
 Bananas Foster
 Bananas Oranges & Cherries
-Banana-Walnut Bread
 Bangers & Mash
 Barbecue Bonanza
 Barbecue Chicken Salad
@@ -505,6 +504,7 @@ Barbecue Rubs
 Barbecue Sauce
 Barbecue Seasoning
 Barbecue Snags
+Barbecue-Flavored Snacks
 Barbecued Beans
 Barbecued Beef Ribs
 Barbecued Beef Sandwich
@@ -533,7 +533,6 @@ Barbecued Spare Ribs
 Barbecued-Chicken Fajita
 Barbecued-Chicken Salad
 Barbecued-Flavored Snacks
-Barbecue-Flavored Snacks
 Bare-Root Berries
 Barley
 Barley Soup
@@ -622,8 +621,8 @@ Beef With Garlic
 Beef With Quinoa & Onions In White Wine
 Beef With Snow Peas
 Beef-Barley Soup
-Beefmaster Tomatoes
 Beef-Noodle Bake
+Beefmaster Tomatoes
 Beefsteak Tomatoes
 Beer & Snaps
 Beer & Wine
@@ -685,6 +684,7 @@ Biscuits & Cookies
 Biscuits & Gravy
 Biscuits With Giblet Gravy
 Bit Of Salt
+Bit-O-Honey
 Bite Sized Candy Bars
 Bite-Sized Avocado Egg & Tomato Sandwiches
 Bite-Sized Candy Bars
@@ -693,7 +693,6 @@ Bite-Sized Creme Brulee
 Bite-Sized Fudge Brownie Pieces
 Bite-Sized Pieces
 Bite-Sized Treats
-Bit-O-Honey
 Bitter Dark Chocolate
 Bittersweet Baking Chocolate
 Bittersweet Chocolate
@@ -729,6 +728,12 @@ Black-Bean Brownies
 Black-Bean Salsa
 Black-Bean Soup With Chorizo
 Black-Bean Tacos
+Black-Eyed Pea Balls Fried In Palm Oil
+Black-Eyed Pea Soup
+Black-Eyed Peas
+Black-Eyed Peas & Rice
+Black-Sesame Paste
+Black-Sesame Soup
 Blackberries
 Blackberries & Cream
 Blackberries & Raspberries With Whipped Cream
@@ -741,12 +746,6 @@ Blackberry Tart
 Blackberry-Apple Upside-Down Cake
 Blackened Cajun Shrimp
 Blackened Crawfish
-Black-Eyed Pea Balls Fried In Palm Oil
-Black-Eyed Pea Soup
-Black-Eyed Peas
-Black-Eyed Peas & Rice
-Black-Sesame Paste
-Black-Sesame Soup
 Bland Spice
 Blended Teas
 Blood Sausage
@@ -758,6 +757,14 @@ Blue Cheese Dressing
 Blue Nacho Chips
 Blue Plate Special
 Blue Tortilla Chips
+Blue-Cheese Aioli
+Blue-Cheese Dip
+Blue-Cheese Dressing
+Blue-Cheese Ranch Dip
+Blue-Cheese Risotto
+Blue-Ribbon-Winning Apple Pie
+Blue-Ribbon-Winning Chili
+Blue-Ribbon-Winning Pecan Pie
 Blueberry Bran Muffin
 Blueberry Cobbler Sprinkled With Sugar
 Blueberry Compote
@@ -782,14 +789,6 @@ Blueberry Turnover
 Blueberry-Grain Salad
 Blueberry-Lemon Verbena Pie
 Blueberry-Oat Pancakes
-Blue-Cheese Aioli
-Blue-Cheese Dip
-Blue-Cheese Dressing
-Blue-Cheese Ranch Dip
-Blue-Cheese Risotto
-Blue-Ribbon-Winning Apple Pie
-Blue-Ribbon-Winning Chili
-Blue-Ribbon-Winning Pecan Pie
 Boiled Beans
 Boiled Beets
 Boiled Cabbage
@@ -841,6 +840,8 @@ Bourbon-Peach Sauce
 Boursin Mashed Potatoes
 Boutique Cupcakes
 Bow Tie Pasta
+Bow-Tie Pasta Salad
+Bow-Tie Pasta With Broccoli
 Bowl Of Candy Corn
 Bowl Of Cherries
 Bowl Of Corn Chips
@@ -850,8 +851,6 @@ Bowl Of Icing
 Bowl Of Kiwi Punch
 Bowl Of Rice
 Bowl Of Rice Topped With Seasoned Fish
-Bow-Tie Pasta Salad
-Bow-Tie Pasta With Broccoli
 Box Lunch
 Boxed Lunch
 Boxty With Green Onions & Sour Cream
@@ -878,10 +877,10 @@ Brandy Alexander
 Bratwurst Bites
 Bratwurst With Sauerkraut
 Brazil Nuts & Cacao Nibs
-Bread & Butter Pudding
-Bread & Tomatoes With Olive Oil
 Bread & Butter
 Bread & Butter Pickles
+Bread & Butter Pudding
+Bread & Tomatoes With Olive Oil
 Bread Bowl Fresh From The Oven
 Bread Crumbs
 Bread Filled With Sweet Bean Paste
@@ -889,6 +888,7 @@ Bread Pudding
 Bread Pudding With Bourbon Sauce
 Bread Pudding With Caramel Sauce
 Bread Rolls With Jam
+Bread-Making Machine
 Breadcrumbs
 Breaded Beefsteaks
 Breaded Cauliflower
@@ -901,7 +901,6 @@ Breaded Plaice Fillets
 Breaded Toasted Ravioli
 Breaded Veal Cutlet
 Breadfruit
-Bread-Making Machine
 Breads & Pancakes
 Breadsticks
 Breakfast
@@ -976,6 +975,12 @@ Brown Sugar
 Brown Sugar & Caramel Pound Cake
 Brown Sugar Shortbread
 Brown-Butter Chocolate-Chip Cookies
+Brown-Rice Bowl
+Brown-Sugar & Caramel Pound Cake
+Brown-Sugar Caramel Latte
+Brown-Sugar Fruit Dip
+Brown-Sugar Sandwich Cookies
+Brown-Sugar Syrup
 Brownie Batter
 Brownie Cookie
 Brownie Pie
@@ -983,12 +988,6 @@ Brownie Pudding Cake
 Brownies Cakes & Pies
 Brownies Cakes Pies
 Brownies With Goji Berries & Almonds
-Brown-Rice Bowl
-Brown-Sugar & Caramel Pound Cake
-Brown-Sugar Caramel Latte
-Brown-Sugar Fruit Dip
-Brown-Sugar Sandwich Cookies
-Brown-Sugar Syrup
 Brunch
 Bruschetta
 Bruschetta Brushed With Olive Oil & Tomatoes
@@ -1039,6 +1038,9 @@ Butter Brickle Ice Cream
 Butter Lettuce Salad
 Butter Tarts
 Butter-Brickle Ice Cream
+Butter-Lettuce Salad
+Butter-Milk Ranch Dip
+Butter-Pecan Ice Cream With Caramel Sauce
 Buttercrunch Toffee
 Buttered Bagel
 Buttered Baguettes
@@ -1065,7 +1067,6 @@ Butterfinger & Twix Bars
 Butterfinger Candy
 Butterfinger Candy Bars
 Butterflake Rolls
-Butter-Lettuce Salad
 Buttermilk Berry Muffins
 Buttermilk Biscuits From Scratch
 Buttermilk Breakfast Cake
@@ -1076,7 +1077,6 @@ Buttermilk Fried Chicken
 Buttermilk Hotcakes
 Buttermilk Pancakes
 Buttermilk Ranch Dip
-Butter-Milk Ranch Dip
 Buttermilk Rolls
 Buttermilk Waffles
 Buttermilk Waffles With Blueberry Syrup
@@ -1093,7 +1093,6 @@ Butternut Squash With Dried Cranberries
 Butternut-Squash Bisque
 Butternut-Squash Rigatoni
 Butternut-Squash Tortellini
-Butter-Pecan Ice Cream With Caramel Sauce
 Butterscotch Cream Pie
 Butterscotch Milkshake
 Butterscotch Pudding
@@ -1254,6 +1253,9 @@ Caramel-Crunch Cake
 Caramel-Dipped Apples
 Caramel-Drizzled Popcorn
 Caramel-Filled Chocolate Eggs
+Caramel-Java Freeze
+Caramel-Marshmallow Popcorn Balls
+Caramel-Pecan-Pumpkin Bread Pudding
 Caramelized Apples
 Caramelized Banana Pudding
 Caramelized Butternut Squash
@@ -1261,9 +1263,6 @@ Caramelized Nuts
 Caramelized Onions
 Caramelized Shallots
 Caramelized-Onion Jam
-Caramel-Java Freeze
-Caramel-Marshmallow Popcorn Balls
-Caramel-Pecan-Pumpkin Bread Pudding
 Caramels & Toffee
 Caraway Dill Bread
 Caraway-Dill Bread
@@ -1277,8 +1276,6 @@ Carrot & Celery Sticks
 Carrot & Celery Sticks With Veggie Dip
 Carrot & Fennel Soup
 Carrot & Raisin Salad
-Carrot & Celery Sticks
-Carrot & Raisin Salad
 Carrot Cake
 Carrot Cake With Cream Cheese Frosting
 Carrot Cake With Cream Cheese Icing
@@ -1291,13 +1288,12 @@ Carrot Smoothie
 Carrot Sticks
 Carrot Sticks With Ranch Dressing
 Carrot-Ginger Teacake
+Carrot-Walnut Loaf
 Carrots & Golden Raisins
 Carrots & Onions
-Carrots & Turnips
 Carrots & Raisins
 Carrots & Turnips
 Carrots Turnips & Potatoes
-Carrot-Walnut Loaf
 Carton Of Milk
 Cashew Brittle
 Cashew Cheese
@@ -1305,8 +1301,8 @@ Cashew Chicken With Steamed Rice
 Cashew Milk
 Cashew Peanuts
 Cashews & Raisins
-Cashews Almonds & Spanish Nuts
 Cashews & Walnuts
+Cashews Almonds & Spanish Nuts
 Cassata Cake
 Cat Treats
 Catch Of The Day
@@ -1320,8 +1316,8 @@ Cauliflower Rice
 Cauliflower Salad
 Cauliflower With Potatoes
 Caviar
-Caviar & Smoked Salmon
 Caviar & Salmon Rolls
+Caviar & Smoked Salmon
 Caviar Dip
 Cayenne Pepper
 Celery & Radishes
@@ -1385,6 +1381,7 @@ Cheddar-Cheese Fries
 Cheddar-Cheese Fries Under
 Cheddar-Cheese Popcorn
 Cheddar-Garlic Oven Fries
+Cheese & Bacon Roll
 Cheese & Breadcrumbs
 Cheese & Butter
 Cheese & Cracker Plate
@@ -1393,8 +1390,6 @@ Cheese & Herb Pastry
 Cheese & Nuts
 Cheese & Salsa
 Cheese & Walnut Panini
-Cheese & Bacon Roll
-Cheese & Crackers
 Cheese Balls & Shrimp
 Cheese Blintz
 Cheese Burrito
@@ -1426,12 +1421,6 @@ Cheese Stuffed Mushrooms
 Cheese Tray
 Cheese Wedge
 Cheese With Hazelnuts & Honey
-Cheeseburger
-Cheesecake Bars
-Cheesecake Bites
-Cheesecake Ice Cream
-Cheesecake With Apricot Glaze
-Cheesecake With Strawberry Topping
 Cheese-Covered Breadsticks
 Cheese-Filled Croissant
 Cheese-Filled Croissants
@@ -1441,6 +1430,12 @@ Cheese-It Crackers
 Cheese-Stuffed Calzone
 Cheese-Stuffed Dates
 Cheese-Stuffed Mushrooms
+Cheeseburger
+Cheesecake Bars
+Cheesecake Bites
+Cheesecake Ice Cream
+Cheesecake With Apricot Glaze
+Cheesecake With Strawberry Topping
 Cheessecake With Apricot Glaze
 Cheesy Bread
 Cheesy Broccoli Soup
@@ -1448,8 +1443,8 @@ Cheesy Casserole
 Cheesy Cheddar Orzo
 Cheesy Cheddar Tray
 Cheesy Corn Fritters
-Cheesy Doritos & Creamed-Filled Twinkies
 Cheesy Doritos & Cream-Filled Twinkies
+Cheesy Doritos & Creamed-Filled Twinkies
 Cheesy Fries
 Cheesy Garlic Bread
 Cheesy Grits
@@ -1537,6 +1532,7 @@ Chicharron Sandwich
 Chicken
 Chicken & Bok Choy Stir-Fry
 Chicken & Corn Chili
+Chicken & Corn Soup
 Chicken & Dumplings
 Chicken & Leek Soup
 Chicken & Potato Curry
@@ -1547,8 +1543,6 @@ Chicken & Waffles
 Chicken & White Bean Soup
 Chicken & White-Bean Soup
 Chicken Amandine
-Chicken & Corn Soup
-Chicken & Dumplings
 Chicken Apple Sausage
 Chicken Braised With Fennel
 Chicken Broth
@@ -1659,14 +1653,14 @@ Chili Rubbed Pork Tacos
 Chili With Oyster Crackers
 Chili-Blackberry Syrup
 Chili-Cheese Dip
-Chilidog Casserole
-Chilidog Smothered In Grilled Onions
-Chilies Beans & Corn
-Chilies Relleno
 Chili-Rubbed Pork Tacos
 Chili-Sparked Potato Soup
 Chili-Sparked Sweet Potato Soup
 Chili-Spiced Mango
+Chilidog Casserole
+Chilidog Smothered In Grilled Onions
+Chilies Beans & Corn
+Chilies Relleno
 Chill-Blackberry Syrup
 Chilled Bottle Of Champagne
 Chilled Champagne
@@ -1692,7 +1686,6 @@ Chipped Potatoes
 Chips & Dip
 Chips & Guacamole
 Chips & Salsa
-Chips & Dip
 Chips & Spicy Salsa
 Chips With Homemade Spicy Salsa
 Chips With Salsa & Guacamole
@@ -1853,21 +1846,15 @@ Chocolate-Cream Cheese Coffee Cake
 Chocolate-Cream-Filled Doughnut
 Chocolate-Dipped Bananas
 Chocolate-Dipped Biscotti
-Chocolate-Dipped Figs
-Chocolate-Dipped Fruit
-Chocolate-Dipped Gingersnaps
-Chocolate-Dipped Raspberries
-Chocolate-Dipped Strawberries
-Chocolate-Dipped Sugar Cookies
-Chocolate-Dipped Waffle Cone
-Chocolate-Dipped Biscotti
 Chocolate-Dipped Cannoli
 Chocolate-Dipped Cherries
 Chocolate-Dipped Figs
+Chocolate-Dipped Fruit
 Chocolate-Dipped Gingersnaps
 Chocolate-Dipped Pretzel Sticks
 Chocolate-Dipped Pretzels
 Chocolate-Dipped Raspberries
+Chocolate-Dipped Strawberries
 Chocolate-Dipped Sugar Cookies
 Chocolate-Dipped Waffle Cone
 Chocolate-Eclair Cake
@@ -1886,11 +1873,11 @@ Chocolate-Pudding Dessert Cups
 Chocolate-Raspberry Martini
 Chocolate-Raspberry Martinis
 Chocolate-Raspberry-Almond Torte
-Chocolates Filled With Gooey Caramel
-Chocolates On My Pillow
 Chocolate-Souffle Cake
 Chocolate-Truffle Cake
 Chocolate-Vanilla Swirl Frozen Yogurt
+Chocolates Filled With Gooey Caramel
+Chocolates On My Pillow
 Chocolatey Brownie Bites
 Chocolaty Candies
 Chocolaty Desserts
@@ -1902,7 +1889,6 @@ Chopped Chicken Salad
 Chopped Chives
 Chopped Dates & Figs
 Chopped Dates & Nuts
-Chopped Dates & Figs
 Chopped Fish On Toast
 Chopped Fruit
 Chopped Garlic
@@ -1919,7 +1905,6 @@ Chopped Pecans
 Chopped Potatoes
 Chopped Red Onions
 Chopped Tarragon
-Chopped Tuna & Rice
 Chopped Tuna & Rice
 Chopped Veggie Mix
 Chopped Veggies
@@ -1949,11 +1934,9 @@ Churros Dipped In Melted Chocolate
 Churros Rolled In Sugar & Cinnamon
 Churros With Chocolate Sauce
 Churros With Cinnamon & Sugar
-Churros With Cinnamon & Sugar
 Churros With Coconut Sauce
 Cilantro & Cinnamon
 Cilantro Yogurt
-Cinnamon – Maple Syrup
 Cinnamon & Chocolate Twists
 Cinnamon & Nutmeg
 Cinnamon & Sugar
@@ -1979,7 +1962,6 @@ Cinnamon Maple Syrup
 Cinnamon Peach Crisp
 Cinnamon Pita Chips
 Cinnamon Pumpkin Latte
-Cinnamon-Raisin Bread
 Cinnamon Raisin Muffins
 Cinnamon Roll
 Cinnamon Roll Brioche
@@ -1989,12 +1971,12 @@ Cinnamon Sticks & Whole Cloves
 Cinnamon Sticky Buns
 Cinnamon Sugar
 Cinnamon Sugar & Raisins
-Cinnamon Sugar & Raisins
 Cinnamon Sugared Doughnuts
 Cinnamon Swirl Bread
 Cinnamon Swirl Bundt Cake
 Cinnamon Toast Crunch
 Cinnamon Vanilla Sunflower Butter
+Cinnamon – Maple Syrup
 Cinnamon-Apple Butter
 Cinnamon-Apple Dip
 Cinnamon-Flavored Hot Chocolate
@@ -2082,11 +2064,9 @@ Coconut Juice With Pulp
 Coconut Milk
 Coconut Milk & Banana Smoothie
 Coconut Milk & Fresh Juice
-Coconut Milk & Banana Smoothie
 Coconut Mojito
 Coconut Mushroom Soup
 Coconut Oil
-Coconut-Pineapple Smoothie
 Coconut Pudding
 Coconut Scones
 Coconut Sheet Cake
@@ -2107,7 +2087,6 @@ Coffee & Cake
 Coffee & Cream
 Coffee & Doughnuts
 Coffee & Pastries
-Coffee & Doughnuts
 Coffee Beans
 Coffee Cake With Cinnamon Crumble
 Coffee Candy
@@ -2130,10 +2109,10 @@ Coffee With Cream & Sugar
 Coffee With Flavored Creamer
 Coffee With Milk
 Coffee With Sugar & Cream
+Coffee-Flavored Ice Cream
 Coffeecake With Caramel Sauce
 Coffeecake With Cinnamon-Crunch Topping
 Coffeecake With Pistachio Crumbles
-Coffee-Flavored Ice Cream
 Cognac Marzipan
 Colby Jack Cheese
 Cold Bottle Of Beer With A Wedge Of Lime
@@ -2148,9 +2127,7 @@ Cold Milk
 Cold Noodle Soup
 Cold Pizza
 Cold Pork Pies
-Cold-Pressed Apple Cider
 Cold Slushy Limeade
-Cold Soup Made With Buttermilk & Potatoes
 Cold Soup Made With Buttermilk & Potatoes
 Cold Spaghetti
 Cold-Brew Coffee Floats
@@ -2187,8 +2164,8 @@ Cookie Dough
 Cookie-Dough Dip
 Cookie-Dough Pie
 Cookies & Milk
-Cookies ‘N Cream Cupcakes
 Cookies 'N Cream Ice Cream
+Cookies ‘N Cream Cupcakes
 Cooking Oil
 Cooking Sherry
 Cool Drink
@@ -2206,8 +2183,8 @@ Corn & Cucumber Salsa
 Corn & Pepper Salsa
 Corn & Salmon Chowder
 Corn & Sausage Chowder
-Corn & Wheat Tortillas
 Corn & Soybean
+Corn & Wheat Tortillas
 Corn Beans & Peppers
 Corn Bread Dressing
 Corn Bread Smothered In Butter
@@ -2262,22 +2239,19 @@ Cottage Cheese With Raspberry Jam
 Cotton Candy
 Cotton Candy & Ice-Cold Sodas
 Cotton Candy & Saltwater Taffy
-Cotton Candy & Ice-Cold Sodas
 Cotton Candy Lollipops
 Country Biscuits
-Country-Fried Chicken
-Country-Fried Steak
-Country-Fried Steak & Eggs
-Country-Fried Steak Dinner
 Country Ham & Biscuits
 Country Ham With Redeye Gravy
 Country Style Biscuits & Gravy
 Country-Fried Chicken
+Country-Fried Steak
 Country-Fried Steak & Eggs
 Country-Fried Steak Dinner
 Country-Style Biscuits & Gravy
 Course Sea Salt & Ground White Pepper
 Couscous Salad
+Crab & Spinach Quiche
 Crab Cakes
 Crab Cakes & Corn On The Cob
 Crab Cakes With Peanut Sauce
@@ -2292,23 +2266,20 @@ Crab Salad
 Crab Shell Cake
 Crab Sticks
 Crab Wontons
-Crab & Spinach Quiche
-Crabapples
 Crab-Brown Baked Cake
 Crab-Cake Sandwiches
+Crab-Shell Cake
+Crab-Stuffed Mushrooms
+Crabapples
 Crabmeat & Corn Soup
 Crabmeat Omelet
 Crabmeat Stuffing
-Crab-Shell Cake
-Crab-Stuffed Mushrooms
 Cracked Black Pepper
 Cracked Wheat Salad
 Cracked-Wheat Salad
 Cracker Chips
 Cracker Jack
 Crackers & Cheese
-Crackers & Cheese With A Glass Of Wine
-Crackers & Goat Cheese
 Crackers & Cheese With A Glass Of Wine
 Crackers & Goat Cheese
 Crackers With Cheese
@@ -2373,13 +2344,13 @@ Cream Puffs
 Cream Soda
 Cream Sugar & Lemon
 Cream-Cheese Frosting
+Cream-Filled Doughnuts
 Creamed Corn
 Creamed Kale
 Creamed Mushrooms
 Creamed Spinach
 Creamed Vegetables
 Creamer For My Coffee
-Cream-Filled Doughnuts
 Creamy Aji Green Sauce
 Creamy Almond Butter
 Creamy Avocado Dip
@@ -2584,9 +2555,9 @@ Cucumber Sandwiches
 Cucumber Water
 Cucumber-Feta Salad
 Cucumber-Peanut Salad
+Cucumber-Yogurt Sauce
 Cucumbers & Kale
 Cucumbers Beans Carrots & Lettuce
-Cucumber-Yogurt Sauce
 Culinary Creations
 Culinary Delights
 Cumin $ Garlic Powder
@@ -2600,7 +2571,6 @@ Cup Of Joe
 Cup Of Noodles
 Cup Of Tea
 Cupcakes
-Cupcakes With Pink Frosting & Sprinkles
 Cupcakes With Pink Frosting & Sprinkles
 Cupcakes With Sprinkles
 Cured & Dried Game Meats
@@ -2683,12 +2653,6 @@ Deep Dish Apple Pie
 Deep Dish Peach Pie
 Deep Dish Pie
 Deep Dish Pizza & Hot Dogs
-Deep-Fried Apple Cookie
-Deep-Fried Chicharrones
-Deep-Fried Fish With Tangerine Oil
-Deep-Fried Mars Bars
-Deep-Fried Oreos With Caramel Dip
-Deep-Fried Twinkies
 Deep-Dish Apple Pie
 Deep-Dish Peach Pie
 Deep-Dish Pepperoni Pizza
@@ -2723,6 +2687,7 @@ Deep-Fried Turkey Legs
 Deep-Fried Twinkies
 Deli Mustard
 Deli Sandwich
+Deli-Meat Platter
 Delicatessen Fare
 Delicious Appetizer
 Delicious Appetizers
@@ -2816,7 +2781,6 @@ Delicious Yorkshire Pudding
 Delightful Decadent Desserts
 Delightful Dessert
 Delightful Desserts
-Deli-Meat Platter
 Delta Hot Tamales
 Denmark's Carletti Skumbananer
 Dental Dog Treats
@@ -2829,6 +2793,7 @@ Dessert Games
 Dessert Nachos
 Dessert Plates
 Dessert Wine
+Devil's Food Cake
 Devil's Food Pound Cake
 Deviled Crab
 Deviled Eggs
@@ -2836,7 +2801,6 @@ Deviled Eggs & Coleslaw
 Deviled Eggs Sprinkled With Paprika
 Deviled Eggs With Spicy Topping
 Deviled-Egg Tray
-Devil's Food Cake
 Diced Apricots
 Diced Carrots
 Diced Cucumber & Tomato Salad
@@ -2868,10 +2832,10 @@ Dipping Sauce
 Dips & Spreads
 Display Of Cake Pops
 Distilled Gin
+Do-It-Yourself S'Mores
 Dog Training Treats
 Dog Treats
 Dog-Training Treats
-Do-It-Yourself S'Mores
 Dollar Menu
 Dollop Of Jam
 Dollop Of Jelly
@@ -2997,6 +2961,7 @@ Egg & Cheese Sandwich With Potatoes
 Egg Bagel
 Egg Bread
 Egg Custard
+Egg Custard Pastry
 Egg Drop Soup
 Egg Mcmuffin
 Egg Noodles With Cheese
@@ -3009,8 +2974,6 @@ Egg Soup With Soup Buns
 Egg Spaetzle
 Egg Whites
 Egg Yolks
-Egg & Cheese Sandwich
-Egg Custard Pastry
 Eggnog Cake
 Eggnog Cocktail
 Eggnog Cocktails
@@ -3075,9 +3038,8 @@ Expensive Bottle Of Wine
 Exploding Pop Rocks
 Extra Dry Champagne
 Extra Jumbo Shrimp
-Extra Spicy Mustard
-Extra Dry Champagne
 Extra Large Cooked Shrimp
+Extra Spicy Mustard
 Extra Spicy Salsa
 Extra Virgin Olive Oil
 Fairy Bread
@@ -3094,10 +3056,10 @@ Family-Style Hearty Meals
 Famous Chocolate Cake
 Fancy Coffee
 Fancy Sweets
-Farmed Fish
 Farm-Fresh Eggs
 Farm-To-Table Fare
 Farm-To-Table Restaurant
+Farmed Fish
 Fat-Free Lunch
 Fava-Bean Puree
 Fava-Bean Soup
@@ -3142,15 +3104,13 @@ Fingerling Potatoes In Butter
 Finland's Eitt Sett
 Finland's Turkish Pepper
 Fire Roasted Whole Artichoke
-Fireball Whiskey
-Firecracker Cornbread
 Fire-Roasted Vegetables
 Fire-Roasted Whole Artichoke
+Fireball Whiskey
+Firecracker Cornbread
 Firewater
 Fish & Chips
 Fish & Coconut Milk
-Fish ‘N Chips With Salt & Lemon
-Fish & Chips
 Fish Casserole
 Fish Chowder
 Fish Food
@@ -3167,6 +3127,7 @@ Fish Sticks & Macaroni & Cheese
 Fish Tacos
 Fish Tacos With Mango Salsa
 Fish Tacos With Shredded Cabbage & Beans
+Fish ‘N Chips With Salt & Lemon
 Fish-Head Curry
 Fishing Tempura
 Five-Course Dinner
@@ -3243,7 +3204,6 @@ Fluffy Vanilla Cake
 Fluffy White Steamed Rice
 Focaccia Bread
 Fontina Cheese
-Viennese Mini-Pastries
 Food Fight
 Foolproof Thanksgiving Meal
 Footlong Beef Frank On A Wheat Bun
@@ -3330,9 +3290,7 @@ Fresh Fruit Salad
 Fresh Fruit Smoothie
 Fresh Fruits
 Fresh Fruits & Vegetables
-Fresh Fruits & Vegetables
 Fresh Garden Tomatoes
-Fresh Garlic & Onions
 Fresh Garlic & Onions
 Fresh Ginger
 Fresh Ginger Root
@@ -3367,8 +3325,6 @@ Fresh Salmon Steaks
 Fresh Scallions
 Fresh Scallops
 Fresh Spinach Salad
-Fresh-Squeezed Juices
-Fresh-Squeezed Lemonade
 Fresh Steamed Shrimp
 Fresh Strawberries Dipped In Chocolate
 Fresh Strawberries With Whipped Cream
@@ -3396,6 +3352,11 @@ Fresh-Cut Pineapple Slices
 Fresh-Fruit Skewers
 Fresh-Fruit Smoothie
 Fresh-Grilled Sardines
+Fresh-Off-The-Boat Prawns
+Fresh-Picked Apples
+Fresh-Shucked Oysters
+Fresh-Squeezed Juices
+Fresh-Squeezed Lemonade
 Freshly Baked Apple Pie
 Freshly Baked Bagels With Cream Cheese
 Freshly Baked Bread
@@ -3429,12 +3390,8 @@ Freshly Squeezed Limeade
 Freshly Squeezed Orange Juice
 Freshly Squeezed Strawberry Lemonade
 Freshly Steamed Dim Sum
-Fresh-Off-The-Boat Prawns
-Fresh-Picked Apples
-Fresh-Shucked Oysters
-Fresh–Shucked Oysters
-Fresh-Squeezed Juices
 Freshwater Fish
+Fresh–Shucked Oysters
 Fried Bacon
 Fried Bananas
 Fried Bean Curd
@@ -3499,9 +3456,7 @@ Fried Potato Latkes With Applesauce
 Fried Potatoes
 Fried Quinoa
 Fried Rice & Beans
-Fried Rice & Beans
 Fried Scallions With Eggs & Bacon
-Fried Scallops & Oysters
 Fried Scallops & Oysters
 Fried Seafood
 Fried Seafood Platter
@@ -3615,10 +3570,9 @@ Fruit Turnovers
 Fruit-Filled Dumplings
 Fruit-Filled Pastry
 Fruit-Flavored Snacks
-Fruit–Flavored Snacks
+Fruit-Tella Blackcurrant Chews
 Fruits & Vegetables
 Fruits & Veggies
-Fruit-Tella Blackcurrant Chews
 Fruity Cocktails
 Fruity Drinks
 Fruity Fizzy Rolls
@@ -3627,6 +3581,7 @@ Fruity Juicy Starbursts
 Fruity Milkshakes
 Fruity Shortbread
 Fruity Slushes
+Fruit–Flavored Snacks
 Fudge Brownie
 Fudge Brownie Sundae
 Fudge Brownies
@@ -3658,8 +3613,8 @@ Garden Risotto
 Garden Tossed Salad
 Garden Vegetable Salad
 Garlic
-Garlic & Ginger Chicken
 Garlic & Dill
+Garlic & Ginger Chicken
 Garlic & Herb Smashed Potatoes
 Garlic & Herbs
 Garlic & Onion Fries
@@ -3683,9 +3638,6 @@ Garlic Lime Salmon
 Garlic Mashed Potatoes
 Garlic Mushroom Chicken Alfredo
 Garlic Popcorn
-Garlic-Roasted Chicken
-Garlic-Roasted Potatoes
-Garlic-Roasted Zucchini
 Garlic Salt
 Garlic Shrimp Linguine
 Garlic Spread
@@ -3696,12 +3648,6 @@ Garlic Zucchini Chips
 Garlic-Braised Vegetables
 Garlic-Flavored Bagel Chips
 Garlic-Ginger Chicken
-Garlicky Breadsticks
-Garlicky Chicken
-Garlicky Marinade
-Garlicky Noodles
-Garlicky Salad Dressing
-Garlicky Scalloped Potatoes
 Garlic-Lemon Chicken
 Garlic-Lime Salmon
 Garlic-Meatball Pizza
@@ -3712,6 +3658,12 @@ Garlic-Roasted Zucchini
 Garlic-Shrimp Linguine
 Garlic-Truffle Oil
 Garlic-Zucchini Chips
+Garlicky Breadsticks
+Garlicky Chicken
+Garlicky Marinade
+Garlicky Noodles
+Garlicky Salad Dressing
+Garlicky Scalloped Potatoes
 Garnish Asparagus Spears
 Gazpacho
 Gefilte Fish
@@ -3745,7 +3697,6 @@ Ginger & Kale Soup
 Ginger & Sugar Cookies
 Ginger & Wasabi
 Ginger Ale
-Ginger & Clove
 Ginger Beer
 Ginger Beer With Cranberry Garnish
 Ginger Cookies
@@ -3760,6 +3711,10 @@ Ginger Sugar & Spice Cookies
 Ginger Vinaigrette
 Ginger Wasabi
 Ginger-Basil Limeade
+Ginger-Carrot Dressing
+Ginger-Fish Sauce
+Ginger-Kale Salad
+Ginger-Kale Smoothie
 Gingerbread
 Gingerbread & Sugar Cookies
 Gingerbread Cookie Cake
@@ -3772,11 +3727,7 @@ Gingerbread Pie
 Gingerbread Roll
 Gingerbread Twists
 Gingerbread-Cookie Cake
-Ginger-Carrot Dressing
 Gingered Cauliflower
-Ginger-Fish Sauce
-Ginger-Kale Salad
-Ginger-Kale Smoothie
 Gingersnap
 Gingersnap Pumpkin Pie
 Gingersnaps
@@ -3842,7 +3793,6 @@ Golden-Winged Sneakers
 Goldfish Crackers
 Goo Goo Cluster
 Good & Plenty
-Good & Plenty
 Good Breaks
 Good Cup Of Coffee
 Good Food & Fine Wine
@@ -3862,7 +3812,6 @@ Gothic Castles
 Gouda Cheese
 Goulash
 Gourds & Pumpkins
-Gourds & Squash
 Gourds & Squash
 Gourmet Burgers
 Gourmet Candy
@@ -3917,13 +3866,12 @@ Grape Juice
 Grape Raspberry Jam
 Grape Soda
 Grape Tomatoes
+Grape-Raspberry Jam
 Grapefruit
 Grapefruit Juice
 Grapefruit Sections
 Grapefruit Spritzer
 Grapefruits
-Grape-Raspberry Jam
-Grapes & Gumdrops
 Grapes & Gumdrops
 Grapeseed Oil
 Grapfruit Spritzer
@@ -3935,8 +3883,8 @@ Grated Parmesan Cheese
 Grated Potatoes
 Grated-Carrot Salad
 Greasy Street Snacks
-Great Bluedini Kool-Aid
 Great Blue-Dinni Koolaid
+Great Bluedini Kool-Aid
 Great Meal
 Greek Cheese Pie
 Greek Food
@@ -4153,15 +4101,14 @@ Halloween Cupcakes
 Halloween Treat
 Halloween Wax Lips
 Ham & Cabbage Stew
+Ham & Cheese Calzone
 Ham & Cheese On A Roll
 Ham & Cheese Palmiers
 Ham & Cheese Sandwich
-Ham & Potato Soup
-Ham & Sweet Potatoes
-Ham & Cheese Calzone
-Ham & Cheese On A Roll
 Ham & Potato Casserole
 Ham & Potato Pancakes
+Ham & Potato Soup
+Ham & Sweet Potatoes
 Ham Noodles
 Ham On Rye Bread
 Ham Panini
@@ -4184,21 +4131,21 @@ Hand Dipped Chocolate Covered Cherries
 Hand Rolled Sushi
 Hand Rolled Tortillas
 Hand-Breaded Chicken Tenders
-Handcrafted Beer
-Handcrafted Sandwiches
 Hand-Dipped Chocolate
 Hand-Dipped Chocolate-Covered Pretzels
 Hand-Dipped Ice Cream Cone
 Hand-Dipped Ice-Cream Cone
 Hand-Dipped-Chocolate-Covered Pretzels
-Handful Of Candy
-Handmade Baked Loaf
 Hand-Milled Polenta
-Handpicked Avocado
 Hand-Rolled Sushi
 Hand-Rolled Tortillas
 Hand-Rubbed Cheese
 Hand-Salted Cheese Wheels
+Handcrafted Beer
+Handcrafted Sandwiches
+Handful Of Candy
+Handmade Baked Loaf
+Handpicked Avocado
 Hanger Steak
 Hanging Wine Rack
 Hansamin Ginseng Candy
@@ -4254,7 +4201,6 @@ Healthy Whole-Grain Recipes
 Heart Healthy Olives
 Heart Healthy Salads
 Heart Shaped
-Heart-Shaped Cookies
 Heart-Healthy Olives
 Heart-Healthy Salads
 Heart-Shaped Box Of Chocolates
@@ -4292,13 +4238,13 @@ Herb & Onion Salad
 Herb Aach
 Herb Roasted Beef
 Herb Roasted Vegetables
-Herbal Tea
 Herb-Brined Chicken Sandwich
 Herb-Brined Turkey
-Herbed Yogurt
 Herb-Roasted Beef
 Herb-Roasted Potatoes
 Herb-Roasted Vegetables
+Herbal Tea
+Herbed Yogurt
 Herbs & Seasonings
 Herbs & Spices
 Hershey's Kisses
@@ -4332,8 +4278,8 @@ Homegrown Fruits & Vegetables
 Homegrown Tomatoes
 Homegrown Vegetables
 Homemade Birthday Cake
-Homemade Biscuits & Gravy
 Homemade Biscuits & Country Gravy
+Homemade Biscuits & Gravy
 Homemade Brown Gravy
 Homemade Caramels
 Homemade Celery Salt
@@ -4395,7 +4341,6 @@ Honey & Agave Nectar
 Honey & Lemon
 Honey & Nut Parfait
 Honey & Tea
-Honey & Nut Parfait
 Honey Barbecue Chicken Wings
 Honey Biscuits
 Honey Challah
@@ -4414,10 +4359,7 @@ Honey Wheat Buns
 Honey-Baked Ham
 Honey-Barbecue Bacon Meatloaf
 Honey-Barbeque Bacon Meatloaf
-Honeycomb Chocolate Bar
 Honey-Covered Peanuts
-Honeycrisp Apples
-Honeyed Cashews
 Honey-Glazed Pork Loin
 Honey-Mustard Dip
 Honey-Roasted Hazelnuts
@@ -4425,6 +4367,9 @@ Honey-Roasted Peanuts
 Honey-Smoked Turkey Sandwich
 Honey-Sweetened Thumbprint Cookies
 Honey-Wheat Buns
+Honeycomb Chocolate Bar
+Honeycrisp Apples
+Honeyed Cashews
 Hong Kong-Style French Toast
 Hoover Stew
 Horseless Carriage
@@ -4435,12 +4380,12 @@ Hot & Bubbly Cheese
 Hot & Buttered Homemade Rolls
 Hot & Cold Sandwiches
 Hot & Juicy Crawfish
+Hot & Sour Soup
 Hot & Spicy Orange Chicken
 Hot & Spicy Sauce
 Hot & Spicy Sriracha Sauce
 Hot & Tasty Empadas
 Hot & Tasty Empanadas
-Hot & Sour Soup
 Hot Appetizers
 Hot Apple Cider
 Hot Apple Pie
@@ -4485,7 +4430,6 @@ Hot Dogs & French Fries
 Hot Dogs & Hamburgers
 Hot Dogs & Hamburgers Hot Off The Grill
 Hot Dogs & Sodas
-Hot Dogs & Hamburgers
 Hot Dogs Fresh Off The Grill
 Hot Dogs With Cream Cheese
 Hot Dogs With Everything On It
@@ -4531,17 +4475,12 @@ Hot Tater Tots
 Hot Tea
 Hot Tea Sweetened With Agave
 Hot Tea With Lemon & Honey
-Hot Tea With Lemon & Honey
 Hot Tea With Sweetened Agave
 Hot Toddy
 Hot Turkey Sandwich
 Hot Wings
 Hot-And-Sour Soup
 Hot-Brewed Green Tea
-Hotcakes & Bacon
-Hotcakes & Sausages
-Hotcakes & Sausages
-Hotcakes With Butter Pecan Syrup
 Hot-Dog Bun
 Hot-Dog Buns
 Hot-Fudge Sauce
@@ -4549,11 +4488,14 @@ Hot-Fudge Sundae
 Hot-Fudge Topping
 Hot-Fudge Toppings
 Hot-Pepper Sauce
+Hotcakes & Bacon
+Hotcakes & Sausages
+Hotcakes With Butter Pecan Syrup
 Hots Dogs Fresh Off The Grill
 House Salad
+House-Roasted Coffee
 Housemade Dumplings
 Housemade Potato Chips
-House-Roasted Coffee
 Hubbard Squash
 Huevos Rancheros
 Humble Pie
@@ -4561,7 +4503,6 @@ Hummus & Chips
 Hummus & Falafels
 Hummus & Olives
 Hummus & Pitas
-Hummus & Chips
 Hummus Dip
 Hummus Guacamole Dip
 Hummus With Roasted Peppers
@@ -4593,7 +4534,6 @@ Ice Cream With Sprinkles
 Ice Cubes
 Ice Pops
 Ice Wine
-Iceberg Lettuce
 Ice-Cold Beer
 Ice-Cold Fruit Juice
 Ice-Cold Lemonade
@@ -4619,6 +4559,7 @@ Ice-Cream Topped With Whipped Cream
 Ice-Cream Truck
 Ice-Cream-Cone Cupcakes
 Ice-Cream-Sandwich Cake
+Iceberg Lettuce
 Iced Americano
 Iced Animal Cookies
 Iced Cappuccino
@@ -4723,17 +4664,17 @@ Jalapeno Flavored Chips
 Jalapeno Jelly
 Jalapeno Pepper
 Jalapeno Peppers
-Jalapeño Poppers
 Jalapeno Quesadillas
 Jalapeno Slices Guacamole & Spicy Salsa
 Jalapeno-Flavored Chips
 Jalapenos
+Jalapeño Poppers
 Jam & Sweet Potatoes
 Jam Roly Poly
 Jam Roly-Poly
+Jam-Filled Pastries
 Jamaican Jerk Chicken
 Jambalaya
-Jam-Filled Pastries
 Japanese Dumplings
 Japanese Pancakes
 Japanese Salted Plum
@@ -4753,17 +4694,15 @@ Jelly Beans
 Jelly Beans & Chocolate Bunnies
 Jelly Beans & Jolly Ranchers
 Jelly Beans & Marshmallows
-Jelly Beans & Chocolate Bunnies
 Jelly Doughnut
-Jellybeans
 Jelly-Filled Scones
+Jellybeans
 Jellyroll
 Jerk Chicken
 Jerk Fish
 Jewish Rye Bread
 Jicama Salad
 Jicama Sticks
-John Dory Fillets & Chips
 John Dory Fillets & Chips
 Johnnycakes
 Jug Of Juice
@@ -4966,9 +4905,6 @@ Lemon Wedge
 Lemon Wedges
 Lemon Yogurt
 Lemon Zest
-Lemonade
-Lemonade & Iced Tea
-Lemonade Pops
 Lemon-Basil Dressing
 Lemon-Blueberry Iced Tea
 Lemon-Blueberry Iced-Tea
@@ -4979,17 +4915,20 @@ Lemon-Coconut Pound Cake
 Lemon-Dijon Salmon
 Lemon-Elderflower Cake
 Lemon-Glazed Hot Cross Buns
-Lemongrass
-Lemongrass Ice Cream
-Lemongrass-Scented Pork Loin
-Lemongrass-Turmeric Curry Paste
 Lemon-Heads
 Lemon-Mint Iced Tea
 Lemon-Miso Honey
 Lemon-Pepper Tuna
-Lemons & Limes
 Lemon-Scented Water
 Lemon-Thyme Dressing
+Lemonade
+Lemonade & Iced Tea
+Lemonade Pops
+Lemongrass
+Lemongrass Ice Cream
+Lemongrass-Scented Pork Loin
+Lemongrass-Turmeric Curry Paste
+Lemons & Limes
 Lemony Kale Salad
 Lemony Olive-Oil Banana Bread
 Lentil Burgers
@@ -4998,7 +4937,6 @@ Lentil Loaf
 Lentil Soup
 Lentil Soup With Smoked Ham
 Lentil Soup With Spicy Sausage
-Lentils & Beans
 Lentils & Beans
 Lettuce & Eggplant
 Lettuce Onion & Tomatoes
@@ -5017,8 +4955,6 @@ Lifesavers Gummies
 Light & Fluffy Cream Pie
 Light & Fluffy Deep Fried Doughnuts
 Light & Fluffy Deep-Fried Doughnuts
-Light & Fluffy Cream Pie
-Light & Fluffy Deep-Fried Doughnuts
 Light Beer
 Light Fluffy Cream Pie
 Light Lunch
@@ -5031,10 +4967,8 @@ Lime Blossom Honey
 Lime Crema
 Lime Flavor
 Lime Grapefruit & Ginger Juice
-Lime Grapefruit & Ginger Juice
 Lime Juice
 Lime Juice & Cardamom In Simple Syrup
-Lime Juice & Mint
 Lime Juice & Mint
 Lime Mango Salsa
 Lime Sherbet
@@ -5118,7 +5052,6 @@ Macadamia Milk Latte
 Macadamia Nuts
 Macaroni & Cheese
 Macaroni & Cheese With Sliced Hot Dogs
-Macaroni & Cheese With Sliced Hot Dogs
 Macaroni With Shellfish
 Macaroni With White Cheddar Cheese
 Macaroni With Withe Cheddar Cheese
@@ -5147,7 +5080,6 @@ Mango Guacamole
 Mango Juice
 Mango Lassi
 Mango Marinade
-Mango-Peach Fizz Over Ice
 Mango Pico De Gallo
 Mango Pomelo Sago
 Mango Puree
@@ -5156,15 +5088,14 @@ Mango Slices
 Mango Smoothie
 Mango Sorbet
 Mango-Coconut Bread Pudding
+Mango-Peach Fizz Over Ice
 Mangoes & Papayas
 Mangoes & Pineapples
-Mango-Peach Fizz Over Ice
 Manhattan Clam Chowder
 Manicoba
 Manicotti
 Maple & Brown Sugar
 Maple & Brown Sugar Oatmeal
-Maple & Brown Sugar
 Maple Baked Salmon
 Maple Brown Butter
 Maple Butter
@@ -5279,11 +5210,6 @@ Melons & Peppers
 Melt In Your Mouth Ganache
 Melt In Your Mouth Morsels
 Melt In Your Mouth Ribs
-Melted Butter
-Melted Cheddar Cheese
-Melted Ham & Cheese Sandwich
-Melted Marshmallows
-Melting Popsicle
 Melt-In-Your Mouth Morsels
 Melt-In-Your Mouth Ribs
 Melt-In-Your-Mouth Barbecue Ribs
@@ -5293,6 +5219,11 @@ Melt-In-Your-Mouth Ganache
 Melt-In-Your-Mouth Morsels
 Melt-In-Your-Mouth Ribs
 Melt-In-Your-Mouth-Ribs
+Melted Butter
+Melted Cheddar Cheese
+Melted Ham & Cheese Sandwich
+Melted Marshmallows
+Melting Popsicle
 Mesquite Chicken Salad
 Mesquite Cooked Steak
 Mesquite Smoked Ribs
@@ -5331,7 +5262,6 @@ Milk & Chocolate-Chip Cookies For Santa
 Milk & Cookies
 Milk Chocolate
 Milk Chocolate & Dark Chocolate
-Milk Chocolate & Dark Chocolate
 Milk Chocolate Bar
 Milk Chocolate Cookies With Malted Cream
 Milk Chocolate Cordial Cherries
@@ -5368,16 +5298,15 @@ Mini Pecan Pies
 Mini Pretzels
 Mini Sandwiches
 Mini Sausages
+Mini Seedless Watermelon
 Mini Seedless Watermelons
 Mini Spring Rolls With Dipping Sauce
 Mini Tacos
 Mini Wontons
-Miniature Jars Of Jelly
-Miniature Pretzels
 Mini-Pizzas On Garlic Toast
 Mini-Sandwiches
-Mini Seedless Watermelon
-Mini Seedless Watermelons
+Miniature Jars Of Jelly
+Miniature Pretzels
 Mint Chocolate Chip Ice Cream
 Mint Cookies
 Mint Cream Cupcakes
@@ -5458,10 +5387,10 @@ Mountain Spring Water
 Mouth Watering Baked Goods
 Mouth Watering Dessert
 Mouth-Watering Baked Goods
+Mouth-Watering Dessert
 Mouthwatering Burger
 Mouthwatering Candy
 Mouthwatering Chocolate Cake
-Mouth-Watering Dessert
 Mouthwatering Food Buffets
 Mouthwatering Gourmet Cheeses
 Mouthwatering Iced Tea
@@ -5474,7 +5403,6 @@ Mozzarella Cheese
 Mozzarella Sticks
 Mozzarella Tart
 Mrs. Truman's Mac & Cheese
-Mrs. Truman's Mac & Cheese
 Mu Shu Pork
 Muenster Cheese Balls
 Muesli With Milk
@@ -5486,9 +5414,9 @@ Mulled Apple Cider
 Mulligan Stew
 Mulling Spices
 Multi Colored M&Ms
-Multicolored Gumdrops
 Multi-Colored M & M's
 Multi-Colored M&M's
+Multicolored Gumdrops
 Multicolored Sprinkles
 Multicolored Sugar Candies
 Multicultural Activities
@@ -5556,9 +5484,10 @@ Nicoise Olives
 Nightcap
 Ninja Coffee Bar
 No-Cook Oats
+No-Stir Peanut Butter
+Non-Fat Vanilla Yogurt
 Nonfat Cottage Cheese
 Nonfat Vanilla Yogurt
-Non-Fat Vanilla Yogurt
 Nonfat Yogurt
 Nonstick Cooling Spray
 Noodle Bowl
@@ -5568,7 +5497,6 @@ Noodles With Soybean Paste
 Nori Chips
 Norway Lobster
 Norway's Krembanan
-No-Stir Peanut Butter
 Nourishing Protein Shake
 Nourishing Snack
 Nova Scotian Lobster Rolls
@@ -5596,7 +5524,6 @@ Nutritious Snacks
 Nutritious Vegetables
 Nuts & Cashews
 Nuts & Seeds
-Nuts & Cashews
 Nutter Butter Cookies
 Oak Leaf Lettuce
 Oak-Leaf Lettuce
@@ -5645,6 +5572,7 @@ Olive-Oil Crackers
 Olives Figs & Dates
 Olympia Oysters
 Omelette Cake
+On-The-Go Snacks
 One-Hundred Calorie Snacks
 One-Pan Pork Chops & Roasted Vegetables
 One-Pot Sausage Lasagna
@@ -5658,7 +5586,6 @@ Onion Straws
 Onion Stuffing
 Onion-Dip Mix
 Onions Stuffed With Beef
-On-The-Go Snacks
 Open-Faced Chicken Sandwich
 Open-Faced Seafood Sandwich
 Orange Butter
@@ -5678,11 +5605,11 @@ Orange Soup
 Orange-Banana Smoothie
 Orange-Berry Daiquiri
 Orange-Cream Soda
+Orange-Sage Sweet Potatoes
 Oranges & Lemons
 Oranges & Mint
 Oranges & Tangerines
 Oranges Lemons & Limes
-Orange-Sage Sweet Potatoes
 Oregano & Basil
 Oregano & Cheese Skewers
 Oregano & Mint
@@ -5750,26 +5677,10 @@ Pain Au Chocolat
 Pain Au Chocolate
 Pale Lager
 Pan Seared Salmon
-Pancake Breakfast
-Pancake Mix
-Pancake Mix & Pancake Syrup
-Pancake Syrup
-Pancakes
-Pancakes & French Toast
-Pancakes & Syrup
-Pancakes & Maple Syrup
-Pancakes For Breakfast
-Pancakes Syrup
-Pancakes With Bananas & Coconut Syrup
-Pancakes With Chocolate Sauce
-Pancetta Pasta
-Pancetta-Wrapped White Shrimp
 Pan-Fried Bun Stuffed With Pork
 Pan-Fried Dumplings
 Pan-Fried Potatoes With Bacon
 Pan-Fried Steak
-Panko Bread Crumbs
-Panna Cotta
 Pan-Roasted Chicken With Olives
 Pan-Roasted Salmon
 Pan-Seared Dumpling Salad
@@ -5778,6 +5689,22 @@ Pan-Seared Mushrooms
 Pan-Seared Salmon
 Pan-Seared Salmon With Dill Sauce
 Pan-Seared-Mushrooms
+Pancake Breakfast
+Pancake Mix
+Pancake Mix & Pancake Syrup
+Pancake Syrup
+Pancakes
+Pancakes & French Toast
+Pancakes & Maple Syrup
+Pancakes & Syrup
+Pancakes For Breakfast
+Pancakes Syrup
+Pancakes With Bananas & Coconut Syrup
+Pancakes With Chocolate Sauce
+Pancetta Pasta
+Pancetta-Wrapped White Shrimp
+Panko Bread Crumbs
+Panna Cotta
 Papadums
 Papaya Blended With Vanilla Ice Cream
 Papaya Juice
@@ -5788,7 +5715,6 @@ Paprika
 Parboiled Leeks
 Parker House Rolls
 Parmesan & Herb Crackers
-Parmesan & Mushroom Risotto
 Parmesan & Mushroom Risotto
 Parmesan Cheese
 Parmesan Crusted Chicken
@@ -5804,8 +5730,8 @@ Passionfruit
 Passionfruit Cheesecake
 Passionfruit Mousse
 Passionfruits
-Pasta & Pesto
 Pasta & Bread
+Pasta & Pesto
 Pasta Carbonara
 Pasta Dinner For Two
 Pasta Dish
@@ -5834,11 +5760,9 @@ Pastries & Coffee
 Pastries & Cookies
 Pastries & Cupcakes
 Pastries Filled With Baked Apples & Cinnamon
-Pastries Filled With Baked Apples & Cinnamon
 Pastries Filled With Mashed Potatoes
 Pastries With Cinnamon & Sugar Icing
 Pastry Dumplings
-Pastry Filled With Apples & Raisins
 Pastry Filled With Apples & Raisins
 Pastry Filled With Corn & Onion
 Pastry Flour
@@ -5850,6 +5774,7 @@ Pate Cat Food
 Payday Candy Bar
 Pea & Ham Soup
 Pea Soup With Salted Pork
+Peach & Toasted Pecan Ice Cream
 Peach Chutney
 Peach Cobbler
 Peach Cobbler With Crunchy Topping
@@ -5863,25 +5788,23 @@ Peach Pie & Vanilla Ice Cream
 Peach Pie With Vanilla Ice Cream
 Peach Sorbet
 Peach Tart
-Peach & Toasted Pecan Ice Cream
+Peach-Flavored Iced Tea
+Peach-Ginger Iced Tea
+Peach-Mango Nectar
+Peach-Tomato Salsa
 Peaches
 Peaches & Apricots
 Peaches & Cream Trifle
 Peaches & Nectarines
 Peaches & Pecans
 Peaches & Plums
-Peach-Flavored Iced Tea
-Peach-Ginger Iced Tea
-Peach-Mango Nectar
-Peach-Tomato Salsa
 Peachy Baked Apples
-Peanut – Butter & Molasses Spread
 Peanut & Caramel Bites
 Peanut Brittle & Chocolate Toffee
 Peanut Brittle & Toffee
+Peanut Butter & Chocolate Cupcakes
 Peanut Butter & Crackers
 Peanut Butter & Jelly Sandwich
-Peanut Butter & Chocolate Cupcakes
 Peanut Butter Biscotti
 Peanut Butter Blossoms
 Peanut Butter Cookies
@@ -5902,6 +5825,7 @@ Peanut Butter Sandwich
 Peanut Butter Sandwiches
 Peanut Clusters
 Peanut Noodle Salad
+Peanut – Butter & Molasses Spread
 Peanut-Butter Biscotti
 Peanut-Butter Cheesecake
 Peanut-Butter Fudge
@@ -5920,7 +5844,6 @@ Pearl Onions
 Pears & Apples
 Pears In Chocolate Sauce
 Pears With Goat Cheese
-Peas & Carrots
 Peas & Carrots
 Peas Carrots & Onions
 Peas In The Pod
@@ -5956,13 +5879,13 @@ Pepper Jack Cheese
 Pepper Jelly Dressing
 Pepper Mills
 Pepper Steak With Onions
+Pepper-Jelly Dressing
+Pepper-Jelly Vinaigrette
 Peppercorn Dip
 Peppered Bacon
 Peppered Beef Jerky
 Peppered Stilton Steaks
 Pepperidge Farm Goldfish
-Pepper-Jelly Dressing
-Pepper-Jelly Vinaigrette
 Peppermint Bark
 Peppermint Candies
 Peppermint Candy
@@ -5985,7 +5908,6 @@ Pepperoni Pizza
 Pepperoni Pizzas
 Pepperoni Pizzas & Sodas
 Pepperoni Slices
-Peppers & Goat Cheese
 Peppers & Goat Cheese
 Perfect Pumpkin
 Perfect Pumpkin Pie
@@ -6060,7 +5982,6 @@ Pineapple & Ham Casserole
 Pineapple & Ham Thin-Crust Pizza
 Pineapple & Lilikoi
 Pineapple Agua Fresca
-Pineapple & Ham Thin-Crust Pizza
 Pineapple Chunks
 Pineapple Cream Cheese
 Pineapple Fried Rice
@@ -6079,6 +6000,7 @@ Pineapple Upside-Down Cake
 Pineapple-Coconut Smoothie
 Pineapple-Coconut Smoothies
 Pineapple-Mango Salsa
+Pink Frosting
 Pink Grapefruit Juice
 Pink Lemonade
 Pink Peppercorn-Crusted Goat Cheese Log
@@ -6089,7 +6011,6 @@ Pint Of Milk
 Pinto & Green Beans
 Pinto Bean Salad
 Pinto Beans
-Pinto Bean Salad
 Pinwheel Cookies
 Piping Hot Bread
 Piping Hot Buttermilk Biscuits
@@ -6110,8 +6031,8 @@ Pitted Jujubes
 Pitted Olives
 Pitted Prunes
 Pixy Stix
-Pizza & Sodas
 Pizza & Pasta
+Pizza & Sodas
 Pizza By The Slice
 Pizza Calzone
 Pizza Crust
@@ -6132,6 +6053,7 @@ Planter's Punch
 Plenty Of Pizza Puffs
 Plum Jam
 Plum Pudding
+Plum-Vanilla Bread Pudding
 Plump & Juicy Peaches
 Plump Cannellini Beans
 Plump Juicy Strawberries
@@ -6140,7 +6062,6 @@ Plums & Cherries
 Plums & Pears
 Plums & Raisins
 Plums Stewed In Rose Water
-Plum-Vanilla Bread Pudding
 Poached Cherries
 Poached Eggs
 Poached Eggs & Sliced Potatoes
@@ -6185,15 +6106,14 @@ Popular Beverages
 Popular Confection Halvah
 Porchetta Sandwich
 Porcini Risotto
-Pork & Beans With Hunks Of Crispy Bacon
 Pork & Beans
 Pork & Beans With Hunks Of Crispy Bacon
 Pork Carnitas
 Pork Casserole
 Pork Chop
+Pork Chops & Applesauce
 Pork Chops & Potatoes
 Pork Chops Alla Marsala
-Pork Chops & Applesauce
 Pork Chops With Cilantro Pesto
 Pork Chops With Mint Jelly
 Pork Fajitas
@@ -6235,7 +6155,6 @@ Potato Cabbage & Cheese Gratin
 Potato Cakes
 Potato Casserole
 Potato Chips
-Potato Chips & Pretzels
 Potato Chips & Dip
 Potato Chips & Pretzels
 Potato Chips With Onion Dip
@@ -6255,7 +6174,7 @@ Potato Skins With Cheddar & Bacon
 Potato Soup
 Potato Wedges
 Potato With Mayonnaise
-Potato Chips & Pretzels
+Potato-Leek Soup
 Potatoes & Green Peas
 Potatoes & Quinoa
 Potatoes Beans Peppers & Tomatoes
@@ -6264,7 +6183,6 @@ Potatoes Pizza
 Potatoes With Butter
 Potatoes With Gravy
 Potatoes With Herring
-Potato-Leek Soup
 Pound Cake
 Pound Cake With Lemon Icing
 Pour Over Ice
@@ -6284,12 +6202,12 @@ Praline-Crusted Cheesecake
 Prawn Cocktail
 Prawns Leeks & Cheese Served On An Oyster Shell
 Prawns With Cabbage & Pistachios
+Pre-Workout Snack
 Preserved Vegetables
 Pretzel Snacks
 Pretzel Twists
 Pretzels & Popcorn
 Pretzels With Hot Mustard
-Pre-Workout Snack
 Priceless Vintage Wine
 Prickly Pear Lemonade
 Prickly Pears
@@ -6379,8 +6297,8 @@ Pungent Lemongrass
 Punjabi In Chicken Thick Gravy
 Pure Cane Sugar
 Pure Vanilla Extract
-Pureed Cauliflower
 Pure-Vanilla Extract
+Pureed Cauliflower
 Purified Water
 Purple Grapes
 Quadruple Chocolate Brownies
@@ -6421,12 +6339,12 @@ Ranch Snack Mix
 Ranch-Dip Mix
 Ranch-Dressing Popcorn
 Rare Chocolates
+Raspberries & Blackberries
 Raspberries & Blueberries
 Raspberries & Oranges
-Raspberries & Blackberries
 Raspberries Buttercream Frosting
-Raspberries, Strawberries, & Cherries
 Raspberries With Chocolate Sauce
+Raspberries, Strawberries, & Cherries
 Raspberry Banana Freezer Pops
 Raspberry Beret
 Raspberry Blackberry Truffle Cake
@@ -6484,12 +6402,13 @@ Red Apples
 Red Bean & Hoisin Sauce
 Red Bean Mochi
 Red Bean Paste
+Red Bean Pie
 Red Beans & Rice
 Red Beans & Rice With Biscuits
 Red Bell Pepper
-Red-Braised Pork
 Red Cabbage
 Red Chili Gravy
+Red Chili Pumpkin-Chiffon Pie
 Red Chilies
 Red Currant & Black Currant
 Red Currants
@@ -6500,9 +6419,12 @@ Red Grapefruits
 Red Grapes
 Red Hot Cinnamon Hearts
 Red Knight Falling
+Red Lentil Dumplings
 Red Licorice
 Red Onion
 Red Onions
+Red Pepper Flakes
+Red Pepper Spread
 Red Radishes
 Red Raspberries
 Red Raspberry Cooler
@@ -6522,21 +6444,11 @@ Red Velvet Whoopie Pies
 Red Vines Licorice
 Red White & Blue Popsicles
 Red Wine Vinegar
-Red Bean Pie
 Red-Braised Pork
-Red Chili Gravy
-Red Chili Pumpkin-Chiffon Pie
-Redhead Radishes
 Red-Leafed Chicory
-Red Lentil Dumplings
-Red Pepper Flakes
-Red Pepper Spread
-Red Rubin Basil
+Redhead Radishes
 Reduced-Fat Milk
 Reduced-Fat Sour Cream
-Red Velvet Cake Pops
-Red Velvet Cupcakes
-Red Velvet Whoopie Pies
 Reese's Peanut Butter Cups
 Reese's Peanut Butter Eggs
 Reese's Pieces
@@ -6616,6 +6528,7 @@ Roast Duck
 Roast Goose With Sauerkraut & Dumplings
 Roast Lamb & Mint Sauce
 Roast Pig
+Roast Pork Sandwich
 Roast Pork With Peppers & Eggplant
 Roast Pork With Pickles
 Roast Quail In Grape Leaves
@@ -6623,7 +6536,6 @@ Roast Suckling Pig
 Roasted & Salted Pumpkin Seeds
 Roasted & Unsalted Whole Cashews
 Roasted Almonds
-Roasted & Salted Pumpkin Seeds
 Roasted Apricot Chicken
 Roasted Asparagus
 Roasted Broccoli
@@ -6656,6 +6568,7 @@ Roasted Green Beans
 Roasted Halibut With Tahini Sauce
 Roasted Jalapenos
 Roasted Leg Of Lamb
+Roasted Lemon Chutney
 Roasted Mushrooms
 Roasted Nuts
 Roasted Nuts & Dried Fruit
@@ -6678,6 +6591,7 @@ Roasted Red-Pepper Soup With Basil Cream
 Roasted Rutabagas
 Roasted Sugar Kelp
 Roasted Sweet Potatoes
+Roasted Tomato & Chile Salsa
 Roasted Tomato & Chili Salsa
 Roasted Tomatoes & Onions
 Roasted Turkey Breast
@@ -6691,15 +6605,9 @@ Roasted Whole Trout
 Roasted Wild Duck
 Roasted Winter Squash
 Roasted Winter Squash Salad
+Roasted Yellow Pepper Coulis
 Roasted Yellow Peppers
 Roasted Yellow Summer Squash
-Roasted Yellow Pepper Coulis
-Roasted Garlic & Tomato Soup
-Roasted Garlic Puree
-Roasted Lemon Chutney
-Roasted Tomato & Chile Salsa
-Roasted Vegetable Pizza
-Roast Pork Sandwich
 Robust Curry Paste
 Rock Candy
 Rocoto Chili Pepper
@@ -6723,12 +6631,12 @@ Root Beer Float
 Root Vegetable Casserole
 Roquefort Pear Salad
 Rose Hip Soup
+Rose-Petal Granola
 Rosemary & Tarragon
 Rosemary Sprigs
 Rosemary-Garlic Top-Sirloin Roast
 Rosemary-Olive Oil Cake
 Rosemary-Sesame Crackers
-Rose-Petal Granola
 Rosti With A Parsley Garnish
 Rotisserie Chicken
 Rotisserie Leg Of Lamb
@@ -6737,8 +6645,8 @@ Round Steak Sauerbraten
 Rowntree's Fruit Gums
 Rubber Chicken
 Ruby Red Grapefruit
-Rum & Vanilla Wafers
 Rum & Cachaca
+Rum & Vanilla Wafers
 Rum Cocktails
 Rum Drinks
 Russet Potatoes
@@ -6794,7 +6702,6 @@ Salt & Pepper
 Salt & Pepper Calamari
 Salt & Pepper Prawns
 Salt & Vinegar Fries
-Salt & Pepper
 Salt Cod Mashed With Potatoes
 Salt Herring Brandade
 Salt Popcorn
@@ -6883,8 +6790,6 @@ Sausage & Peppers
 Sausage & Potatoes
 Sausage & Sage Stuffing
 Sausage & Tortellini Florentine Soup
-Sausage & Peppers
-Sausage & Sage Stuffing
 Sausage Cheese Balls
 Sausage Dumplings
 Sausage Egg & Cheese Biscuit
@@ -6892,7 +6797,6 @@ Sausage Gravy
 Sausage Links
 Sausage Pasta Soup
 Sausage Patties
-Sausage-Pesto Pasta
 Sausage Potato & Bacon Stew
 Sausage Sandwich
 Sausage Sizzles
@@ -6907,7 +6811,6 @@ Sausages & Salad
 Sausages & Salads
 Sausages & Schnitzel
 Sausages & Schnitzels
-Sausages & Salad
 Sauteed Asparagus
 Sauteed Beef Tenderloin
 Sauteed Bok Choy
@@ -6968,6 +6871,8 @@ Scrumptious Brownies
 Scrumptious Fluffy Souffle
 Scrumptious Treats
 Sea Salt
+Sea-Salt Popcorn
+Sea-Salted Caramel Corn
 Seafood & Rice Wraps
 Seafood Boil
 Seafood Deep-Fried In Tempura Batter
@@ -6996,8 +6901,6 @@ Seared Sea Scallops With Spinach
 Seared Tuna With Kale Salad
 Seared Tuna With Mayo
 Searing Chilies
-Sea-Salt Popcorn
-Sea-Salted Caramel Corn
 Season Wrap-Up
 Seasonal Cuisine
 Seasonal Fruit
@@ -7009,7 +6912,6 @@ Seasoned Salt
 Seasoned Salt With Garlic & Herbs
 Seasoning Made From Dried Peppers
 Seasoning Mix
-Seasonings & Sauces
 Seasonings & Sauces
 Seasonings & Spices
 Seaweed
@@ -7071,10 +6973,10 @@ Shitake Button & Enoki Mushrooms
 Shitake, Button & Enoki Mushrooms
 Shoestring Potatoes
 Shoofly Pie
+Short-Grained Sticky Rice
 Shortbread Bites
 Shortbread Cookies
 Shortcrust Cinnamon Cookies
-Short-Grained Sticky Rice
 Shredded Barbecue Beef Sandwiches
 Shredded Beef Enchilada
 Shredded Cabbage Salad
@@ -7097,9 +6999,9 @@ Shredded-Coconut Layer Cake
 Shrimp & Green Onion Braised Noodles
 Shrimp & Grits
 Shrimp & Grits Dressing
+Shrimp & Okra Hush Puppies
 Shrimp & White Toast
 Shrimp Alfredo
-Shrimp & Okra Hush Puppies
 Shrimp Bisque
 Shrimp Burgers
 Shrimp Cocktail
@@ -7212,8 +7114,8 @@ Slow-Cooked Potatoes In Olive Oil
 Slow-Cooked Sirloin
 Slow-Cooker Beef Stew
 Slow-Cooker Corn Chowder
-Slowed Cooked Sirloin
 Slow-Roasted Prime Rib
+Slowed Cooked Sirloin
 Small Fiery Chili Peppers
 Small Fried Squid
 Small Pickled Cucumbers
@@ -7255,7 +7157,6 @@ Smoked Pork Loin
 Smoked Salmon
 Smoked Salmon & Egg Canapes
 Smoked Salmon Alfredo
-Smoked Salmon & Egg Canapes
 Smoked Salmon On Bread
 Smoked Salmon On Crostini
 Smoked Salmon Quesadillas
@@ -7317,11 +7218,11 @@ Soft Pretzels With Sweet Mustard
 Soft Taco
 Soft Tacos
 Soft-Boiled Eggs
-Softened Cream Cheese
 Soft-Pretzel Stick
 Soft-Serve Ice Cream
 Soft-Serve Ice Cream With Chocolate Sauce & Nuts
 Soft-Serve Vanilla Ice Cream With Sprinkles
+Softened Cream Cheese
 Solid Backbone
 Solid Chocolate Bunny
 Something Strawberry Pie
@@ -7371,21 +7272,21 @@ Sourdough Roll
 Sourdough Rolls
 Sourdough Stuffing
 Sourdough-Wheat Bread
-Southern – Fried Catfish
 Southern Barbecue
 Southern Fried-Green Tomatoes
 Southern Hush Puppies
 Southern Pecan Pie
 Southern Potato Salad
 Southern Style Buffet Dinner
+Southern – Fried Catfish
 Southern-Fried Catfish
 Southern-Style Buffet Dinner
 Southwest Turkey Stew
+Southwest-Stuffed Baked Potatoes
 Southwestern Beef Stew
 Southwestern Roasted-Corn Salad
 Southwestern Style Chili
 Southwestern-Style Chili
-Southwest-Stuffed Baked Potatoes
 Soy Cakes
 Soy Dipping Sauce
 Soy Flour
@@ -7393,9 +7294,9 @@ Soy Latte
 Soy Milk
 Soy Nuts
 Soy Sauce
+Soy-Ginger Glaze
 Soybean
 Soybeans
-Soy-Ginger Glaze
 Soymilk
 Spaghetti
 Spaghetti & Meatballs
@@ -7433,7 +7334,7 @@ Spectacular Scenic Drives
 Spelt Bread
 Spice Pickled Shallots
 Spice Pound Cake
-Spiced – Cashew Brittle
+Spice-Kissed Pumpkin Pie
 Spiced & Roasted Chickpeas
 Spiced Apple Juice
 Spiced Bananas
@@ -7461,11 +7362,11 @@ Spiced Rum Cake
 Spiced Sweet Roasted Red Pepper & Feta Hummus
 Spiced Tea
 Spiced Tea With Honey
+Spiced – Cashew Brittle
 Spiced-Cashew Brittle
 Spiced-Cranberry Cider
 Spiced-Pear Sangria
 Spiced-Rum Cake
-Spice-Kissed Pumpkin Pie
 Spices & Herbs
 Spicy & Salty Cuisine
 Spicy Almonds
@@ -7582,10 +7483,9 @@ Spicy-Chicken Sandwich With Mayo
 Spicy-Sausage Sandwich
 Spicy-Sweet Chili Crab
 Spiked Apple Cider
+Spinach & Artichoke Dip Pizza
 Spinach & Feta Frittata
 Spinach & Feta Quiche
-Spinach & Sour Cream Dip
-Spinach & Artichoke Dip Pizza
 Spinach & Sour Cream Dip
 Spinach Artichoke Dip
 Spinach Beef & Macaroni Bake
@@ -7612,8 +7512,8 @@ Spinach With Pork & Bamboo Shoots
 Spinach-Cheese Tortellini
 Spinach-Chicken Salad
 Spiral Ham With Roasted Carrots
-Spiralized Zucchini Noodles
 Spiral-Pasta Salad
+Spiralized Zucchini Noodles
 Spirulina
 Splash Of Juice
 Split Pea Soup
@@ -7643,21 +7543,20 @@ Stale Cookies
 Stale Loaf Of Bread
 Star Fruit
 Star Fruit & Pineapple
-Star Fruit & Pineapple
 Star Fruit Pineapple
 Starburst & Skittles
 Starbursts & Skittles
 Steak & Baked Potato
+Steak & Eggs
 Steak & Eggs For Breakfast
 Steak & Guinness Pie
 Steak & Kidney Pie
 Steak & Lobster Dinner
 Steak & Lobster Tail
-Steak & Ribs
-Steak & Shrimp
-Steak & Eggs
 Steak & Mushrooms
 Steak & Potatoes
+Steak & Ribs
+Steak & Shrimp
 Steak Burgers
 Steak Dinner With Steamed Vegetables
 Steak Fajitas
@@ -7674,7 +7573,6 @@ Steaks & Ribs
 Steamed Artichokes
 Steamed Asparagus Spears
 Steamed Bean Pudding
-Steamed Broccoli With Salt & Pepper
 Steamed Broccoli With Salt & Pepper
 Steamed Buns
 Steamed Buns Stuffed With Pork
@@ -7751,13 +7649,12 @@ Stone Fruits
 Stone-Fruit Pops
 Stove Top Stuffing Mix
 Strawberries
-Strawberries & Whipped Cream
 Strawberries & Cream
+Strawberries & Whipped Cream
 Strawberries Raspberries & Cherries
 Strawberries With Cream
 Strawberries With Whipped Cream
 Strawberries-Romanoff Bread Pudding
-Strawberry-Banana Milk Shake
 Strawberry Basil Lemonade
 Strawberry Bavarian-Cream Cake
 Strawberry Buttermilk Sherbert
@@ -7811,8 +7708,8 @@ Strawberry-Lemon Shortbread Bars
 Strawberry-Rhubarb Crumble
 Stream-Raised Trout
 String Cheese
-String Cheese & Nut Butters
 String Cheese & Nut Butter
+String Cheese & Nut Butters
 Strip Steak With Lemon Butter
 Strips Of Bacon
 Strips Of Bubble Tape
@@ -7856,6 +7753,7 @@ Sugar & Spice
 Sugar Beets
 Sugar Cane
 Sugar Coated Fried Bread
+Sugar Coated Pecans
 Sugar Cookie
 Sugar Cookies
 Sugar Cube
@@ -7871,17 +7769,16 @@ Sugar Roasted Tomatoes
 Sugar Snap Peas
 Sugar Substitute
 Sugar Wafer Cookies
+Sugar-Free Cola
+Sugar-Free Diet Soda
+Sugar-Free Sea-Salt Licorice
+Sugar-Roasted Tomatoes
 Sugarcane
-Sugar Coated Pecans
 Sugared Beignets
 Sugared Cranberries
 Sugared Oats
 Sugared Sweet Pretzels
-Sugar-Free Cola
-Sugar-Free Diet Soda
-Sugar-Free Sea-Salt Licorice
 Sugarless Candy
-Sugar-Roasted Tomatoes
 Sugars & Spices
 Sugary Cereal & Milk
 Sugary Confection
@@ -7902,14 +7799,14 @@ Summertime Fruits
 Summery Beverage
 Summery Drinks
 Sun Tea
+Sun-Ripened Italian Tomatoes
+Sun-Ripened Tomatoes
 Suncrisp Apples
 Sunday Roast
 Sunflower Oil
 Sunflower Seeds
 Sunflower Seeds In The Shell
 Sunflower Sprouts
-Sun-Ripened Italian Tomatoes
-Sun-Ripened Tomatoes
 Sunshine Cake
 Superfood Snacks
 Superfruit
@@ -7918,7 +7815,6 @@ Sushi & Sashimi
 Sushi & Wasabi
 Sushi Bar
 Sushi Rolls & Soy Sauce
-Sushi With Shredded Ginger & Wasabi
 Sushi With Shredded Ginger & Wasabi
 Sushi With Wasabi
 Sweden's Daim Bar
@@ -7942,7 +7838,11 @@ Sweet & Sour Cuisine
 Sweet & Sour Pickles
 Sweet & Sour Plum
 Sweet & Sour Pork
+Sweet & Sour Pork With Fried Noodles
+Sweet & Sour Pork With Rice Balls
+Sweet & Sour Sardines
 Sweet & Sour Shrimp
+Sweet & Sour Spare Ribs
 Sweet & Spicy Baby Back Ribs
 Sweet & Spicy Dressing
 Sweet & Spicy Ginger Shortbread
@@ -7955,15 +7855,6 @@ Sweet & Tart
 Sweet After-Dinner Treat
 Sweet Agave
 Sweet Almond Flan
-Sweet & Sour Cabbage
-Sweet & Sour Candy
-Sweet & Sour Pickles
-Sweet & Sour Plum
-Sweet & Sour Pork
-Sweet & Sour Pork With Fried Noodles
-Sweet & Sour Sardines
-Sweet & Sour Shrimp
-Sweet & Sour Spare Ribs
 Sweet Apples
 Sweet Apricots
 Sweet Aroma
@@ -8007,7 +7898,6 @@ Sweet Curry Powder
 Sweet Custard Filling
 Sweet Custard With Cinnamon
 Sweet Dessert Wine
-Sweet Drink Made Of Wheat & Peaches
 Sweet Drink Made Of Wheat & Peaches
 Sweet Dulce De Leche
 Sweet Dumplings
@@ -8064,9 +7954,9 @@ Sweet Plantains
 Sweet Port
 Sweet Potato & Bean Burrito
 Sweet Potato & Feta Sandwiches
-Sweet Potato Burritos
 Sweet Potato Bisque
 Sweet Potato Bites
+Sweet Potato Burritos
 Sweet Potato Casserole
 Sweet Potato Fries
 Sweet Potato Gnocchi
@@ -8108,19 +7998,11 @@ Sweet Treats
 Sweet Waffles
 Sweet White Corn
 Sweet Yeast Bread
-Sweet & Sour Cabbage
-Sweet & Sour Pork
-Sweet & Sour Cabbage
-Sweet & Sour Pork
-Sweet & Sour Pork With Fried Noodles
-Sweet & Sour Pork With Rice Balls
-Sweet & Sour Sardines
-Sweet & Sour Spare Ribs
+Sweet-Soy Dipping Sauce
 Sweetened Breakfast Cereal
 Sweetened Cheese
 Sweetened Condensed Milk
 Sweets & Pastries
-Sweet-Soy Dipping Sauce
 Swim Fins
 Swiss Chard
 Swiss Cheese
@@ -8146,11 +8028,10 @@ Taco Combo Plate
 Taco Dip
 Taco Salad
 Taco Spaghetti Pie
-Tacos & Burritos
-Tacos Al Pastor
+Taco-Spaghetti Pie
 Tacos & Burritos
 Tacos & Tortillas
-Taco-Spaghetti Pie
+Tacos Al Pastor
 Taffy
 Tahini
 Tai Shrimp Soup With Rice Noodles
@@ -8286,7 +8167,6 @@ The Wonka Bar
 Thick & Creamy Hot Chocolate
 Thick & Juicy Angus Beef In A Bun
 Thick & Juicy Angus Beef On A Bun
-Thick & Creamy Hot Chocolate
 Thick Cut Porterhouse Steaks
 Thick Garlic & Potato Puree
 Thick Mashed Potatoes With Brown Gravy
@@ -8345,7 +8225,6 @@ Tiramisu Cake
 Tiramisu Toffee Trifle Pie
 Toast With Butter & Strawberry Jam
 Toast With Jelly
-Toasted-Almond Sable Cookies
 Toasted Almond-Butter Cake
 Toasted Almonds
 Toasted Bagel
@@ -8363,7 +8242,7 @@ Toasted Quinoa
 Toasted Sesame Oil
 Toasted Wafers
 Toasted Walnuts
-Toasted Sesame Oil
+Toasted-Almond Sable Cookies
 Toffee Pudding
 Toffee-Nut Cookies
 Tofu Dumplings
@@ -8381,9 +8260,8 @@ Tomato & Cheese Sourdough Toast
 Tomato & Corn Salad
 Tomato & Cucumber Salad
 Tomato & Shrimp Salad
-Tomato & Sweet-Basil Bisque
-Tomato & Corn Salad
 Tomato & Sweet Basil Bisque
+Tomato & Sweet-Basil Bisque
 Tomato Bacon Dip With Focaccia
 Tomato Bouillon
 Tomato Flatbread
@@ -8395,10 +8273,10 @@ Tomato Sauce
 Tomato Wedge
 Tomato-Bacon Dip With Focaccia
 Tomato-Based Broth
-Tomatoes & Onions In Olive Oil
-Tomatoes & Basil
-Tomatoes Cabbage & Onions
 Tomato-Rice Soup
+Tomatoes & Basil
+Tomatoes & Onions In Olive Oil
+Tomatoes Cabbage & Onions
 Tongass Forest Cookies
 Tonic Water
 Tons Of Free Attractions
@@ -8429,7 +8307,6 @@ Traditional Dim Sum
 Traditional Empanadas
 Traditional English Tea Sandwiches
 Traditional Fish & Chips
-Traditional Fish & Chips
 Traditional Flatbread
 Traditional Greek Beef Stew
 Traditional Hawaiian Cuisine
@@ -8443,6 +8320,7 @@ Trail Mix
 Trans Fat
 Treacle Tarts
 Tres Leches Cake
+Tri-Tip Roast
 Triple Berry Butter Cake
 Triple Cheese Omelet
 Triple Cheeseburger
@@ -8450,8 +8328,6 @@ Triple Chocolate Brownie
 Triple Chocolate Cake
 Triple Chocolate Mousse
 Triple Creme Brie
-Triple-Decker Grilled Cheese Sandwich
-Triple-Decker Turkey Club Sandwhich
 Triple Ginger Cookies
 Triple Layered Wedding Cake
 Triple Scoop Ice Cream Cone
@@ -8465,12 +8341,12 @@ Triple-Chocolate-Chip Cake
 Triple-Creme Brie
 Triple-Decker Cheeseburger
 Triple-Decker Grilled Cheese Sandwich
+Triple-Decker Turkey Club Sandwhich
 Triple-Decker Turkey Club Sandwich
 Triple-Ginger Cookies
 Triple-Layer Wedding Cake
 Triple-Layered Wedding Cake
 Triscuit Crackers
-Tri-Tip Roast
 Tropical Bananas Foster
 Tropical Bay Breeze
 Tropical Bbq Chicken
@@ -8485,7 +8361,6 @@ Tropical Vegetables
 Truffle Bites
 Truffle Oil
 Truffle Salt
-Truffles & Bacon
 Truffles & Bacon
 Tumeric & Dill
 Tuna Casserole
@@ -8548,7 +8423,6 @@ Turmeric & Garlic
 Turnip Cakes
 Turnip Greens
 Turnips & Tangerines
-Turnips & Tangerines
 Turtle Jelly
 Tuscan Beef & Bean Soup
 Tuscan Pork Stew
@@ -8558,7 +8432,6 @@ Tv-Time Snacks
 Twice Baked Potatoes
 Twice-Baked Potatoes
 Twizzler Red Vines
-Twizzlers & Red Vines
 Twizzlers & Red Vines
 Two Eggs Any Style
 Two Scoops Of Helado
@@ -8591,7 +8464,6 @@ Vanilla Caviar
 Vanilla Coffee
 Vanilla Cookie Dough
 Vanilla Cookies With
-Pink Frosting
 Vanilla Cream Pie
 Vanilla Cream Puff
 Vanilla Cupcakes With Pink Frosting
@@ -8669,7 +8541,6 @@ Vegetarian Snacks
 Vegetarian Stuffed Buns
 Veggie & Hummus Tray
 Veggie & Hummus Wrap
-Veggie & Hummus Wrap
 Veggie Brunch Bake
 Veggie Chili
 Veggie Chips
@@ -8690,18 +8561,18 @@ Veggie Samosas
 Veggie Sandwich
 Veggie Soup
 Veggie Stew
-Veggie-Stuffed Calzone
 Veggie Tofu Wrap
 Veggie Wrap With Cheese
+Veggie-Stuffed Calzone
 Veggies & Dip
 Veggies & Hummus
 Veggies & Tofu
 Veggies & Wine
-Veggies & Tofu
 Veggieverything Recipes
 Vermont Maple Syrup
 Viennese Dough
 Viennese Mini Pastries
+Viennese Mini-Pastries
 Vietnamese Beef Pho Soup
 Vinegar Marinade
 Vinegary Pickled Eggs
@@ -8776,7 +8647,6 @@ Warm Pancake Syrup
 Warm Pita Bread
 Warm Pita Bread Stuffed With Lamb
 Warm Potato & Bean Salad
-Warm Potato & Bean Salad
 Warm Pumpkin Pie
 Warm Pumpkin Pie With Cinnamon Ice Cream
 Warm Soup
@@ -8826,7 +8696,6 @@ Werther's Original
 Werther's Original Hard Candies
 Western Baked Beans
 Western Omelet
-Wheat & Barley
 Wheat & Barley
 Wheat Berries
 Wheat Bread
@@ -8883,10 +8752,6 @@ Whole Grain Mustard
 Whole Grain Pasta
 Whole Pizza
 Whole Poached Head Of Garlic
-Whole-Wheat Baguette
-Whole-Wheat Crackers
-Whole-Wheat Pizza Crust
-Whole-Wheat Spaghetti
 Whole-Bean Coffee
 Whole-Bean Vanilla Cookies
 Whole-Grain Bread
@@ -8896,23 +8761,24 @@ Whole-Grain Pizza Crust
 Whole-Grain Rice
 Whole-Meal Oatmeal-Chocolate Chip Cookies
 Whole-Milk Yogurt
-Wholesome Breakfast
-Wholesome Healthy Meal
-Wholesome Ingredients
-Wholesome Oats
-Wholesome Snacks
 Whole-Wheat Bagels
 Whole-Wheat Baguette
 Whole-Wheat Banana Muffins
 Whole-Wheat Blackberry & Ricotta Scones
+Whole-Wheat Blackberry Scones
 Whole-Wheat Blueberry Muffins
 Whole-Wheat Couscous
 Whole-Wheat Crackers
 Whole-Wheat Dinner Rolls
 Whole-Wheat Flour
 Whole-Wheat Oatmeal-Chocolate Chip Cookies
+Whole-Wheat Pizza Crust
 Whole-Wheat Spaghetti
-Whole-Wheat Blackberry Scones
+Wholesome Breakfast
+Wholesome Healthy Meal
+Wholesome Ingredients
+Wholesome Oats
+Wholesome Snacks
 Whopper Jr.
 Wild Blackberries
 Wild Boar With Seasonal Vegetables
@@ -8927,12 +8793,12 @@ Wild Rice
 Wild Rice & Mushroom Soup
 Wild Rice Growing In A Shallow Lake
 Wild Rice Pilaf
+Wild Rice Stuffing Mix
 Wild Salmon
 Wild Watercress
+Wild White Mexican Shrimp
 Wild-Caught Alaskan Cod Fillets
 Wildflower Honey
-Wild Rice Stuffing Mix
-Wild White Mexican Shrimp
 Willy Wonka's Fun Dip
 Wilted Greens
 Wilted Head Of Lettuce
@@ -8966,8 +8832,6 @@ Yellow-Squash Casserole
 Yerba Mate
 Yogurt & Honey Porridge
 Yogurt Bowls
-Yogurt-Covered Pretzels
-Yogurt-Covered Raisins
 Yogurt Cup
 Yogurt Dip
 Yogurt Loaf Cake
@@ -8994,10 +8858,10 @@ Zesty Salsa
 Zotz
 Zucchini & Red Onion Focaccia
 Zucchini Bread
+Zucchini Bread Recipe
 Zucchini Bread With Chocolate Chunks
 Zucchini Crisps
 Zucchini Fettuccine
 Zucchini Frittata
 Zucchini Fritters
 Zucchini Puree
-Zucchini Bread Recipe

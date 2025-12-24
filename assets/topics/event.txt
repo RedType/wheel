@@ -1,4 +1,3 @@
-Event
 A Bicycle Tour
 A Big Bash
 A Big Decision
@@ -130,6 +129,7 @@ A Trip Abroad
 A Trip Out West
 A Trip Overseas
 A Trip Through The Mangroves
+A Trip To
 A Trip To A Fish Hatchery
 A Trip To A Frontier Town
 A Trip To A Green Recreational Area
@@ -275,8 +275,6 @@ A Trip To Wriggled Field
 A Trip To Wrigley Field
 A Trip To Wyoming
 A Trip To Yankee Stadium
-A Trip To
-The Botanical Gardens
 A Vacation Abroad
 A Vacation In Ireland
 A Visit From The Easter Bunny
@@ -330,6 +328,7 @@ After Dark
 After-Dinner Walk Along The Beach
 After-Game Celebrations
 After-Hours Party
+After-School Activity
 Afternoon Business Meeting
 Afternoon Cocktails & A Matinee
 Afternoon Cocktails And A Matinee
@@ -349,7 +348,6 @@ Afternoon Teatime
 Afternoon Thundershower
 Afternoon Yoga Class
 Afternoon Yoga Retreat
-After-School Activity
 Agricultural Fair
 Alaska Fishing Trip
 Alaskan Cruise
@@ -511,24 +509,24 @@ Autumn Harvest
 Autumnal Equinox
 Award Ceremony
 Award Ceremony Dinner
+Award-Winning Performance
 Awards Banquet
 Awards Dinner
 Awards Luncheon
-Award-Winning Performance
 Awesome Birthday Party
 Baby Shower
-Baby's First Tooth
 Baby's First Birthday Party
+Baby's First Tooth
 Bachelor Party
 Bachelorette Party
 Back Country Expedition
+Back-To-School Sales
+Back-To-School Shopping
 Backcountry Camping
 Backcountry Expedition
 Backcountry Hike
 Backpacking Adventure
 Backstage Tour
-Back-To-School Sales
-Back-To-School Shopping
 Backyard Barbecue
 Backyard Barbecue & Sunday Football
 Backyard Barbeque & Sunday Football
@@ -609,10 +607,10 @@ Big Sale
 Big Snowstorm
 Big Wedding
 Big-Five Safari
-Bigfoot Sighting
 Big-Production Dance Show
 Big-Wave Surfing
 Big-Wave Surfing Contest
+Bigfoot Sighting
 Bike Ride
 Bike Ride In The Woods
 Bike Riding In The Park
@@ -858,10 +856,10 @@ Clambake
 Clandestine Meeting
 Class Reunion
 Classic Car Show
+Classic-Car Show
 Classical Concerts
 Classical Music Festival
 Classical-Music Festival
-Classic-Car Show
 Clearance Sale
 Climbing Expedition
 Climbing Mount Olympus
@@ -905,8 +903,8 @@ Columbus Day
 Come-As-You Are Party
 Come-As-You-Are Party
 Comic Book Convention
-Comical Situations
 Comic-Con International
+Comical Situations
 Command Performance
 Community Bake Sale
 Community Barn Dance
@@ -1056,13 +1054,13 @@ Dinnertime Television
 Disco Era
 Disneyland
 Do You Solemnly Swear To Tell The Truth?
+Do-It-Yourself Room Makeover
 Dockside Dining
 Dog Show
 Doggie Day Camp
 Dogsled Excursion
 Dogsled Tours
 Doing A Triathlon
-Do-It-Yourself Room Makeover
 Don't Go To Work Unless It's Fun Day
 Dormant Volcano Roars To Life
 Double & Triple Plays
@@ -1194,6 +1192,7 @@ Evening Mass
 Evening Thunderstorm
 Evening Walk
 Evening Workout
+Event
 Event Ticket
 Everyday Occurrences
 Evolutionary Transitions
@@ -1244,9 +1243,9 @@ Face-To-Face Chat
 Face-To-Face Discussion
 Factory Tour
 Fairy-Tale Destination Wedding
-Fairy–Tale Destination Wedding
 Fairy-Tale Ending
 Fairy-Tale Wedding
+Fairy–Tale Destination Wedding
 Fall & Winter
 Fall Festivals
 Fall Harvest
@@ -1285,20 +1284,20 @@ Fancy Dinner
 Fancy Food Show
 Fancy Gala Balls
 Fantastic Vacation
+Far-Reaching Investigation
 Farewell Party
 Farewell Tour
 Farm Progress Show
-Far-Reaching Investigation
 Fashion Show
 Fashion Shows
 Fashion Week
 Fat-Burning Workout
 Fat-Burning-Workout
 Father's Day
+Father's Day Brunch
 Father's Day Dinner
 Father-And-Son Camping Trip
 Fatherhood
-Father's Day Brunch
 Fear Of Flying Squirrels
 Feast
 Feasts With Dancing & Music
@@ -1488,9 +1487,9 @@ Fun-Filled Afternoon
 Fun-Filled Morning
 Fun-Filled Vacation
 Funny Puppet Show
+Fur-Seal Sighting
 Furniture Delivery
 Furniture Shopping
-Fur-Seal Sighting
 Future Adventures
 Gala Opening
 Gallery Hopping
@@ -1665,8 +1664,8 @@ Hawaiian Honeymoon
 Hawaiian Luau
 Hawaiian Vacation
 Head Massage
-Heading In The Right Direction
 Head-To-Head Fitness Test
+Heading In The Right Direction
 Healing Massage
 Heart Pounding Adventure
 Heart Pumping Workout
@@ -1677,12 +1676,12 @@ Heated Debate
 Heavy Downpour
 Heavy Snowfall
 Heavyweight Title Fight
+Heli-Skiing For The First Time
 Helicopter Excursion
 Helicopter Ride
 Helicopter Tour
 Helicopter Tour Of A Private Island
 Helicopter Tour Of The Grand Canyon
-Heli-Skiing For The First Time
 Hidden Eco Treasures Tour
 High Intensity Interval Training
 High Level Discussions
@@ -1695,7 +1694,6 @@ High Tide
 High-End Shops
 High-Intensity Interval Training
 High-Level Discussions
-Highly Publicized Boxing Match
 High-School Dance
 High-School Equivalency Classes
 High-School Play
@@ -1704,6 +1702,7 @@ High-School-Equivalency Classes
 High-Speed Car Chase
 High-Speed Tube Racing
 High-Wire Act
+Highly Publicized Boxing Match
 Hike In Pay
 Hiking Tour
 Hiking Trip
@@ -1755,9 +1754,9 @@ Horse Pack Trip
 Horse-And-Buggy Ride Through The Woods
 Horse-Drawn Carriage Ride
 Horse-Pack Trip
-Horseracing
 Horse-Riding Excursion
 Horse-Riding Excursions
+Horseracing
 Hosting Friendsgiving
 Hot & Dry Summers
 Hot Dog Eating Contest
@@ -1775,9 +1774,9 @@ Hour Long Workout
 Hour Long Workouts
 Hourlong Workout
 House Parties
+House-Warming Party
 Housemates Form An Alliance
 Housewarming Party
-House-Warming Party
 Housing Boom
 Huge Ovation
 Hula-Hoop Contest
@@ -1790,8 +1789,8 @@ Hunting And Fishing
 Ibm-Pc Invented
 Ice Fishing
 Ice Storm
-Iceclimbing Trip
 Ice-Cream Social
+Iceclimbing Trip
 Icewalking Trip
 Ideal Diving Excursions
 Ideal Family Getaway
@@ -1801,6 +1800,7 @@ Idyllic Beach Escapes
 Important Date
 Impromptu Adventure
 In Depth Interview
+In-Depth Interview
 Inaugural Gala
 Inaugural Luncheon
 Inaugural Parade
@@ -1813,7 +1813,6 @@ Incredible Showstopper
 Independence Day
 Independence Day Parade
 Independence Day Picnic
-In-Depth Interview
 Indian Summer
 Indoor Skydiving
 Induction Ceremony
@@ -2056,8 +2055,8 @@ Lover's Spat
 Low & High Tide
 Low Payments
 Low Tide
-Lowering Of A Drawbridge
 Low-Pressure Massage
+Lowering Of A Drawbridge
 Luau Themed Party
 Luau-Themed Party
 Lunar Eclipse
@@ -2224,8 +2223,8 @@ Mud Wrestling
 Mud Wrestling Tournament
 Mud-Wrestling Tournament
 Muggy Morning
-Multisport Vacation
 Multi-Sport Vacation
+Multisport Vacation
 Multitasking
 Murder-Mystery Show
 Muscle-Building Workout
@@ -2307,14 +2306,14 @@ New England Clambake
 New Hampshire Primary
 New Hire Orientation
 New Passport
+New Year's Celebration
+New Year's Eve
 New Year's Eve At The Danube Tower
+New Year's Eve Ball Drop In Times Square
 New Year's Eve Celebration
 New Year's Eve Celebrations
 New Year's Eve In Times Square
 New Year's Gala
-New Year's Celebration
-New Year's Eve
-New Year's Eve Ball Drop In Times Square
 New York City Hosts World's Fair
 New York City Marathon
 New York Fashion Week
@@ -2322,8 +2321,8 @@ New-Car Giveaway
 New-Car Shopping
 New-Employee Orientation
 New-Hire Orientation
-Newspaper Headline
 New-Student Orientation
+Newspaper Headline
 Nfl Draft
 Nfl Scouting Combine
 Nice Long Walk
@@ -2348,16 +2347,16 @@ Obstacle Course Race
 Obstacle-Course Race
 Ocean Crossing
 Ocean Voyage
-Oceanside Dining
 Ocean-View Dining
+Oceanside Dining
 October Thirty-First
 Off-Broadway Shows
+Off-Road Excursions
 Office Birthday Party
 Office Christmas Party
 Office Pizza Party
 Official Investigation
 Official Start Of Summer
-Off-Road Excursions
 Oh I Am On
 Oktoberfest
 Oktoberfest In Munich Germany
@@ -2398,6 +2397,8 @@ Open Casting Call
 Open Garden Days
 Open House
 Open Mic Night
+Open-Mic Night
+Open-Sea Voyage
 Opening & Closing Ceremonies
 Opening A New Account
 Opening Baseball Day
@@ -2408,8 +2409,6 @@ Opening Day At The Races
 Opening Night
 Opening Night At The Opera
 Opening Weekend At The Movies
-Open-Mic Night
-Open-Sea Voyage
 Oprah Winfrey As Mrs Which
 Orange Bowl
 Orca Migration Off The Coast Of Washington
@@ -2426,6 +2425,8 @@ Our First Dance
 Our First Dance Together
 Out Of Body Experience
 Out Of Town Trip
+Out-Of-Body Experience
+Out-Of-Town Trip
 Outdoor Cinema
 Outdoor Concert
 Outdoor Concert In Sultan's Pool
@@ -2442,8 +2443,6 @@ Outdoor Tea Party
 Outdoor Travel Expedition
 Outdoor Workout
 Outlet Shopping
-Out-Of-Body Experience
-Out-Of-Town Trip
 Overnight Stay
 Overnight Success
 Overseas Travel
@@ -2587,8 +2586,8 @@ Powwow
 Practice Session
 Practicing A Dance In Front Of A Mirror
 Pre-Game Ceremonies
-Pregame Party
 Pre-Game Shows
+Pregame Party
 Pregames
 Preliminary Hearing
 Preliminary Investigation
@@ -2737,10 +2736,10 @@ Rock Concert
 Rock Music Concert
 Rock-Climbing Competition
 Rock-Climbing Expedition
+Rock-Music Concert
 Rockefeller Center Tree Lighting
 Rocket Festival
 Rocket Launch
-Rock-Music Concert
 Roll Call
 Roller Skating Party
 Roman Chariot Race
@@ -2869,10 +2868,10 @@ Self-Guided Driving Tours
 Self-Guided Tours
 Self-Guided Walking Tour
 Self-Help Seminar
+Semi-Formal Dance
 Semiannual Sale
 Semifinal Round
 Semifinals
-Semi-Formal Dance
 Seminars & Workshops
 Seminars And Workshops
 Senate Hearing
@@ -3036,10 +3035,10 @@ Squeeze Play
 St Patrick's Day Party
 St Patrick's Day Potluck
 St. Patrick's Day
+St. Patrick's Day Parade
 St. Patrick's Day Party
 St. Patrick's Day Potluck
 St. Patrick's Day Queen Contest
-St. Patrick's Day Parade
 Staff Meeting
 Stage Reading
 Stagecoach California's Country Music Festival
@@ -3048,12 +3047,12 @@ Standing In My Bare Feet
 Standing Ovation
 Standing Still
 Star Trek Convention
+Star-Studded Affair
+Star-Studded Evening
 Stargazing
 Staring Contest
 Stark Snowy Nights
 Starry Night
-Star-Studded Affair
-Star-Studded Evening
 Start Of Daylight-Saving Time
 State Fair
 State Of The Union Address
@@ -3111,8 +3110,8 @@ Summer Festivals
 Summer Festivals Every Weekend
 Summer Food Festivals
 Summer Garden Party
-Summer Getaway
 Summer Get-Together
+Summer Getaway
 Summer Harvest
 Summer In The City
 Summer Kickoff
@@ -3188,9 +3187,9 @@ Taco Tuesday
 Tae Kwon Do
 Tailgate Party
 Tailgating Before A Big Game
-Tailored Holiday
 Tailor-Made Custom Tours
 Tailor-Made Tour
+Tailored Holiday
 Take Our Daughters And Sons To Work Day
 Take-Your-Child-To-Work Day
 Take-Your-Child-To-Work-Day
@@ -3244,6 +3243,7 @@ The Biggest Shopping Day Of The Year
 The Biggest Snowfall Of The Season
 The Boston Beanpot
 The Boston Tea Party
+The Botanical Gardens
 The Bronze Age
 The California Gold Rush
 The Carnival Of Brazil
@@ -3604,8 +3604,8 @@ Weekly Games
 Weekly Meeting
 Weekly Summer Festival
 Weekly Swap Meet
-Weightlifting Competition
 Weight-Loss Challenge
+Weightlifting Competition
 Welcome-Home Party
 Well-Deserved Promotion
 Westminster Kennel Club Dog Show
@@ -3637,6 +3637,8 @@ Wild Party
 Wild Turkey Sightings
 Wild-Animal Safari
 Wild-Bison Sighting
+Wild-Mustang Sighting
+Wild-Turkey Sightings
 Wildebeest Migrations
 Wilderness Adventure
 Wilderness Camping
@@ -3648,8 +3650,6 @@ Wildlife Sightings
 Wildlife Tour
 Wildlife Viewing In The Everglades
 Wildlife Watching
-Wild-Mustang Sighting
-Wild-Turkey Sightings
 Wimbledon Tennis Tournament
 Window Shopping
 Window Shopping In The City
@@ -3729,11 +3729,11 @@ World Voyage
 World War I
 World War Ii
 World Winter Festivals
+World's Fair
 World-Class Getaway
 World-Class Performance
 World-Class Rodeo
 World-Famous Film Festival
-World's Fair
 Worst-Case Scenario
 Writer's Workshop
 Yale Bowl
