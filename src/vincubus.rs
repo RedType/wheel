@@ -1,4 +1,4 @@
-use bevy::{input::keyboard::KeyboardInput, platform::collections::HashSet, prelude::*};
+use bevy::{platform::collections::HashSet, prelude::*};
 
 pub struct VincubusPlugin;
 
@@ -7,71 +7,14 @@ impl Plugin for VincubusPlugin {
     app.add_systems(Startup, setup).add_systems(
       Update,
       (
-        update_load_state,
         update_eye,
         update_head,
         update_l_arm,
         update_r_arm,
         update_tail,
-        testing_input,
+        watch_load_state.run_if(run_if_loading),
       ),
     );
-  }
-}
-
-fn testing_input(
-  mut ev_keyboard: MessageReader<KeyboardInput>,
-  mut q: Query<(
-    &mut EyeState,
-    &mut HeadState,
-    &mut LArmState,
-    &mut RArmState,
-    &mut TailState,
-  )>,
-) {
-  for ev in ev_keyboard.read() {
-    if ev.state.is_pressed() {
-      continue;
-    }
-
-    for (mut e, mut h, mut l, mut r, mut t) in &mut q {
-      match ev.key_code {
-        KeyCode::KeyQ => {
-          *e = match *e {
-            EyeState::Hidden => EyeState::Facing,
-            EyeState::Facing => EyeState::Looking,
-            EyeState::Looking => EyeState::Hidden,
-          };
-        }
-        KeyCode::KeyW => {
-          *h = match *h {
-            HeadState::Neutral => HeadState::Talk,
-            HeadState::Talk => HeadState::Sad,
-            HeadState::Sad => HeadState::Surprise,
-            HeadState::Surprise => HeadState::Neutral,
-          };
-        }
-        KeyCode::KeyE => {
-          *l = match *l {
-            LArmState::Hip => LArmState::Shrug,
-            LArmState::Shrug => LArmState::Hip,
-          };
-        }
-        KeyCode::KeyR => {
-          *r = match *r {
-            RArmState::Shrug => RArmState::Hangin,
-            RArmState::Hangin => RArmState::Shrug,
-          };
-        }
-        KeyCode::KeyT => {
-          *t = match *t {
-            TailState::Flip => TailState::Flop,
-            TailState::Flop => TailState::Flip,
-          };
-        }
-        _ => (),
-      }
-    }
   }
 }
 
@@ -100,14 +43,10 @@ mod sprite_filenames {
 #[derive(Resource)]
 struct LoadState {
   finished_loading: bool,
-  sprites: HashSet<Handle<Image>>,
+  sprites:          HashSet<Handle<Image>>,
 }
 
-fn update_load_state(mut load_state: ResMut<LoadState>, asset_server: Res<AssetServer>) {
-  if load_state.finished_loading {
-    return;
-  }
-
+fn watch_load_state(mut load_state: ResMut<LoadState>, asset_server: Res<AssetServer>) {
   load_state.sprites.retain(|sprite| {
     asset_server
       .get_recursive_dependency_load_state(sprite)
@@ -119,25 +58,29 @@ fn update_load_state(mut load_state: ResMut<LoadState>, asset_server: Res<AssetS
   }
 }
 
+fn run_if_loading(load_state: Res<LoadState>) -> bool {
+  !load_state.finished_loading
+}
+
 ///////////////
 // Component //
 ///////////////
 
 #[derive(Component)]
 pub struct Vincubus {
-  eye_facing: Entity,
-  eye_looking: Entity,
-  head_neutral: Entity,
-  head_sad: Entity,
+  eye_facing:    Entity,
+  eye_looking:   Entity,
+  head_neutral:  Entity,
+  head_sad:      Entity,
   head_surprise: Entity,
-  head_talk: Entity,
-  l_arm_hip: Entity,
-  l_arm_shrug: Entity,
-  _body: Entity,
-  r_arm_hangin: Entity,
-  r_arm_shrug: Entity,
-  tail_flip: Entity,
-  tail_flop: Entity,
+  head_talk:     Entity,
+  l_arm_hip:     Entity,
+  l_arm_shrug:   Entity,
+  _body:         Entity,
+  r_arm_hangin:  Entity,
+  r_arm_shrug:   Entity,
+  tail_flip:     Entity,
+  tail_flop:     Entity,
 }
 
 ///////////////////
@@ -483,7 +426,7 @@ impl Command for SpawnVincubusCommand {
       LArmState::Hip,
       RArmState::Hangin,
       TailState::Flip,
-      Visibility::Visible,
+      Visibility::Hidden,
       Transform::from_xyz(0., 0., 0.),
     ));
     vincubus.add_children(&[
@@ -533,7 +476,7 @@ fn setup(mut commands: Commands, asset_server: Res<AssetServer>) {
 
   let load_state = LoadState {
     finished_loading: false,
-    sprites: HashSet::from_iter(
+    sprites:          HashSet::from_iter(
       [
         image_tail_1,
         image_tail_2,

@@ -15,7 +15,7 @@ impl Plugin for PhrasePlugin {
       .init_asset::<Topic>()
       .init_asset_loader::<TopicLoader>()
       .add_systems(Startup, setup)
-      .add_systems(Update, watch_topics_load);
+      .add_systems(Update, watch_topics_load.run_if(run_if_loading));
   }
 }
 
@@ -26,13 +26,13 @@ impl Plugin for PhrasePlugin {
 #[derive(Resource)]
 pub struct Topics {
   pub finished_loading: bool,
-  pub all: HashSet<Handle<Topic>>,
-  pub enabled: HashSet<Handle<Topic>>,
+  pub all:              HashSet<Handle<Topic>>,
+  pub enabled:          HashSet<Handle<Topic>>,
 }
 
 #[derive(Asset, Reflect)]
 pub struct Topic {
-  pub name: String,
+  pub name:    String,
   pub phrases: Vec<String>,
 }
 
@@ -134,8 +134,8 @@ impl error::Error for TopicLoadError {}
 fn setup(mut commands: Commands, asset_server: Res<AssetServer>) {
   let mut topics = Topics {
     finished_loading: false,
-    all: HashSet::new(),
-    enabled: HashSet::new(),
+    all:              HashSet::new(),
+    enabled:          HashSet::new(),
   };
 
   let topic_file_paths = fs::read_dir("assets/topics")
@@ -169,4 +169,8 @@ fn watch_topics_load(mut topics: ResMut<Topics>, asset_server: Res<AssetServer>)
 
   // if we got this far, then all have loaded
   topics.finished_loading = true;
+}
+
+fn run_if_loading(topics: Res<Topics>) -> bool {
+  !topics.finished_loading
 }
